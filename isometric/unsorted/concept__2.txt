@@ -1,0 +1,3 @@
+author: Blarumyrran
+License: Public Domain
+source: http://opengameart.org/content/4-characters

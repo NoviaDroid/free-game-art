@@ -1,0 +1,4 @@
+author: Blarumyrran
+License: CC-BY-SA
+
+Sprite based on knight by Blarumyrran: http://opengameart.org/content/4-characters

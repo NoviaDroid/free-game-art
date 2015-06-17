@@ -1,3 +1,4 @@
 author: Nikita Sadkov
 license: CC-BY-SA  (credit laetissima http://opengameart.org/content/painted-sara)
-Isometric version by Nikita Sadkov based on CC-BY by laetissima
+
+Isometric Sara's sorute by Nikita Sadkov based on CC-BY artwork by laetissima
