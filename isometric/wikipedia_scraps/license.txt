@@ -1,0 +1,78 @@
+Wikipe-tan_chibi_icon.png
+    author: Kasuga
+    license: Creative Commons Attribution-Share Alike 3.0 Unported
+    source: Own work
+            http://commons.wikimedia.org/wiki/File:Wikipe-tan_chibi_icon.png
+
+Wikipe-tan.png
+    author: Cpro
+    license: Creative Commons Attribution-Share Alike 3.0 Unported
+    source: http://commons.wikimedia.org/wiki/File:Wikipe-tan_pixel_art.png
+
+The_Gunk.png
+    author: Lucas V. Barbosa
+    license: Creative Commons Attribution-Share Alike 3.0 Unported
+    source: http://commons.wikimedia.org/wiki/File:The_Gunk.png
+
+Flat_Screen_TV.png
+    author: ImInYourBasement
+    license: Creative Commons Attribution-Share Alike 3.0 Unported
+    source: Own work
+            http://commons.wikimedia.org/wiki/File:Flat_Screen_TV_Isometric_-_Transparency.png
+    note: google image search finds wikipedia as the sole source
+
+Pixel_Art_by_Peterson_Freitas.gif
+    author: Peterson Freitas
+    license: Creative Commons Attribution-Share Alike 4.0 International
+    source: Own work
+            http://commons.wikimedia.org/wiki/File:Isometric_Pixel_Art_by_Peterson_Freitas.gif
+    note: on author's behance account ( https://www.behance.net/gallery/19996235/Pixcity-Worlds-biggest-pixel-art-) ) it is licensed under CC3 non-commercial, so use at your own risk
+
+Kaptn_Borgers_Piratennest.gif
+    author: Boerger (@pixelplaza.de)
+    license: Creative Commons Attribution-Share Alike 3.0 Unported
+    source: http://commons.wikimedia.org/wiki/File:Pixel-Art_K%C3%A4pt%27n_B%C3%B6rgers_Piratennest.gif
+            http://www.pixelplaza.de/index.php?module=profile&subName=house&itemID=15622&tab=undefined
+    note: The author granted explicit permission to publish this work under CC-by-SA
+
+library.gif
+    author: Numerobis (@pixelplaza.de)
+    license: Creative Commons Attribution-Share Alike 3.0 Unported
+    source: http://commons.wikimedia.org/wiki/File:Pixel-Art_TAI%D0%AFAUQIT%D0%98A.gif
+            http://www.pixelplaza.de/index.php?module=profile&subName=house&itemID=21383&tab=undefined
+    note: The author granted explicit permission to publish this work under CC-by-SA
+
+Wohnhaus_Nr._6.gif
+    author: Numerobis (@pixelplaza.de)
+    license: Creative Commons Attribution-Share Alike 3.0 Unported
+    source: http://commons.wikimedia.org/wiki/File:Pixel-Art_Wohnhaus_Nr._6.gif
+            http://www.pixelplaza.de/index.php?module=profile&subName=house&itemID=18120&tab=undefined
+    note: The author granted explicit permission to publish this work under CC-by-SA
+
+book.png
+    author: Inductiveload
+    license: public domain
+    source: http://commons.wikimedia.org/wiki/File:Book_icon_(closed)_-_Blue_and_gold.svg
+
+anvil.png
+    author: This file is from the Open Clip Art Library, which released it explicitly into the public domain
+    license: Creative Commons CC0 1.0 Universal Public Domain Dedication
+    source: http://commons.wikimedia.org/wiki/File:Blacksmith_anvil_ganson.svg
+            http://openclipart.org/clipart/tools/blacksmith_anvil_ganson.svg
+
+archer_2003.jpg
+    author: Methem (Mikko J. Putkonen)
+    license: public domain
+    source: http://commons.wikimedia.org/wiki/File:Pixeled_archer_2003.jpg
+    note: An image of what is supposed to be some sort of archer, medieval fantasy style. Originally made for the content of a web site, the image was mostly drawn using XPaint.
+
+Sprite_example_neoriceisgood.png
+    author: http://wiki.wesnoth.org/Contrib:Neoriceisgood
+    license: GPL
+    source: http://commons.wikimedia.org/wiki/File:Sprite_example_neoriceisgood.png
+    note: Contributions of artist Neoriceisgood in the forum of Battle for Wesnoth. Such contributions are licensed under GPL (http://forums.wesnoth.org/viewtopic.php?t=2014)
+
+Indy.png
+    author: Monsieurouxx
+    license: Creative Commons Attribution-Share Alike 4.0 International
+    source: http://commons.wikimedia.org/wiki/File:Pixel_art_Indy.png

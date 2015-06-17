@@ -1,0 +1,3 @@
+author: Q_x (http://opengameart.org/users/qx)
+license: GPL2, GPL3
+source: http://opengameart.org/content/remains

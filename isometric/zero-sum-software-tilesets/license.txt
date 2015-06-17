@@ -1,0 +1,29 @@
+author: Zero Sum Software
+
+
+the license is equivalent to CC-BY:
+
+http://www.gamedev.net/topic/105514-tiles/
+----------------------------------------------
+We let folks use the tilesset from one of our old games, lots of isometric terrain/items/furniture, just about everything, just credit us (zero sum) if you use it.
+
+www.zero-sum.com\tiles.zip
+
+cheers,
+mat williams
+Lead Programmer, Designer
+Zero Sum Software
+www.zero-sum.com
+
+
+http://www.gamedev.net/topic/105514-tiles/
+----------------------------------------------
+Feel free to post them whereever, as long as we get a little credit or even better a link to our website, www.zero-sum.com.
+
+cheers,
+-m 
+
+mat williams
+Lead Programmer, Designer
+Zero Sum Software
+www.zero-sum.com 
