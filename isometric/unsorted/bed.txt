@@ -1,0 +1,7 @@
+License: GPL2
+
+Based on the bed sprite from Hero of Allacrost. Hence the GPL2 license
+
+Author, I think, is Jetrel.
+
+see allacrost-props.png for the original bed.

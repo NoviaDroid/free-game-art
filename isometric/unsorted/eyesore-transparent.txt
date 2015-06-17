@@ -4,7 +4,7 @@ original source: http://opengameart.org/content/surts-painted-conceptsassets
 
 I've removed the background, so the these sprites can be easily used ingame
 
-As a bonus I've converted two bush sprites to Yar's tileset format.
+As a bonus I've converted two bush sprites and the chest sprit to Yar's tileset format.
 
 While Surt says that "None of this was meant to be anything but rough concepts", a lot of open source games use even more rough stuff (think of Crossfire). And these sprites are detailed enough for most uses.
 
