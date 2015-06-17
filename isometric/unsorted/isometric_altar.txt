@@ -1,0 +1,4 @@
+author: Nikita Sadkov
+license: CC-BY-SA (credit Calciumtrice http://opengameart.org/content/dungeon-tileset-1)
+
+based on altar by Calciumtrice

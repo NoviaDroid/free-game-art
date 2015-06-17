@@ -1,0 +1,4 @@
+license: CC-BY-SA
+author: Nikita Sadkov
+
+I've drawn these sprites from scratch.

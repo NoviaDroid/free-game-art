@@ -1,0 +1,25 @@
+author: Nikita Sadkov
+License: CC-BY-SA
+
+Based on Public Domain Faun clipart by tzunghaor:
+https://openclipart.org/user-detail/tzunghaor
+http://opengameart.org/content/cartoon-vector-characters
+
+Note: while original sprite is public domain this edit is CC-BY-SA
+
+
+A tutorial on how to make front view version, given isometric one.
+
+Front view can be helpful if you want to make a 3d model out of isometric spirte or just want a few more directions.
+
+Vivisection Steps:
+
+0. find a character sprite (this example uses http://opengameart.org/content/isometric-faun)
+
+1. separate body from head
+2. cut the half of body closest to viewer (leftmost on the example)
+3. make a smart object out of it, duplicate it and mirror the duplicated version, putting it beside the original half.
+4. now edit the smart object to reduce the width ot resulting body sprite and mirror parts requiring mirroring.
+5. repeat steps 2-4 for head, then attach head to body
+
+Note: unfortunately GIMP doesn't have smart objects, so you'll likely have to get Photoshop somehow, otherwise doing step 3 would be a little hard.
