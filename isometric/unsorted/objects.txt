@@ -1,0 +1,6 @@
+author: celeron55 (Perttu Ahola)
+License: CC-BY-SA 3.0
+source: http://opengameart.org/content/16-%C3%97-16-pixel-art-textures
+
+
+© 2010-2012 celeron55, Perttu Ahola <celeron55@gmail.com> Many textures improved or remade by Calinou or other contributors, see LICENSE.md on https://gitorious.org/calinou/carbone

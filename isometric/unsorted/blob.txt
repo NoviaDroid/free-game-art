@@ -1,0 +1,5 @@
+Author: Tap (Josh Maines)
+License: CC-BY-SA
+source: http://opengameart.org/content/multi-part-sprites-and-other-objects
+
+Edited by me (Nikita Sadkov) to make it look more isometric.

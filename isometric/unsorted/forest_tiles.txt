@@ -1,0 +1,4 @@
+author: Surt (Carl Olsson)
+License: Public Domain
+
+source: http://opengameart.org/content/forest-tiles
