@@ -6,4 +6,7 @@ Unfortunately OpenGameArt.org curators believe it is unethical to scavenge for g
 Contrary to OGA's curators, I don't care about ethics or morals, only about law.
 I will also try to collect here art, which original authors decided to pull out of free use or changed its distribution license to the less free one (the case with Monster Rpg 2).
 
+Broforce sprites, in particular, are pesent too:
+https://github.com/saniv/free-game-art/tree/master/sideview/broforce-sprites
+
 Enjoy!

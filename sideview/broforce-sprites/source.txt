@@ -1,7 +1,9 @@
 License: CC-BY-SA
 Source: http://commons.wikimedia.org/wiki/Category:Broforce
 
-Using these sprites would be legal, but very controversial and some people believe using it would be "unethical" (http://opengameart.org/forumtopic/censored-broforce-sprites-and-game-ready).
+The Broforce case is the interesting one. Wanting to promote their game at Wikipedia, the developer, Free Lives, has foolishly released these sprites to Wikimedia Commons under CC-BY-SA 3.0 license. The act they appear to be regretting now.
+
+Using these sprites would be legal, but very controversial. For the full story see http://opengameart.org/forumtopic/censored-broforce-sprites-and-game-ready).
 
 In any case, original developers (Free Lives) have confirmed that they had indeed released them under CC-BY-SA 3.0, so if you want to make a bad name for Creative Commons, anger a few people and spark more controversy, then by any means, please use these sprites and don't forget to openly declare you're doing it.
 
