@@ -1,0 +1,3 @@
+author: surt
+License: GPL3
+source: http://opengameart.org/content/dawnblocker

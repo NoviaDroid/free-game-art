@@ -1,0 +1,4 @@
+Author: Nikita Sadkov
+License: CC-BY-SA
+
+based on the clock by Sharm (http://opengameart.org/content/lpc-modified-base-tiles)

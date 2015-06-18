@@ -1,0 +1,3 @@
+author: Akimasa Shimobayashi (http://www.shimobayashi.name/)
+license: CC-BY 3.0
+source: http://opengameart.org/content/teqq-princess-image-materials

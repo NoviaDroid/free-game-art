@@ -1,0 +1,4 @@
+author: Nikita Sadkov
+license: GPL v3
+
+Based on the LPC char by pennomi (http://opengameart.org/content/lpc-tabletop-rpg-pizza)
