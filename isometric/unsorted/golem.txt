@@ -1,0 +1,5 @@
+author: Blarumyrran
+license: Public Domain
+source: http://opengameart.org/content/trolls
+
+Attribution is not required; if you want, then attribute it to blarumyrran@gmail.com

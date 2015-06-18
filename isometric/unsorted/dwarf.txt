@@ -1,0 +1,7 @@
+author: Redshrike and Blarumyrran
+License: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/dwarf
+
+Original dorf by Redshrike and the improvement version by Blarumyrran (to right right).
+
+I've also included a smaller version, compatible with most 64x32 isometric tilesets.

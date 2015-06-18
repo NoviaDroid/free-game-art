@@ -1,0 +1,3 @@
+license: GPL2
+
+Edited sprites taken from Wesnoth repository. I (Nikita Sadkov) have modified them to be compatible with 64x32 isometric tilesets.

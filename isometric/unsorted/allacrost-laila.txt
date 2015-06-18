@@ -1,0 +1,3 @@
+Author: Joe Raucci (Sylon)
+License: GPL2
+source: http://opengameart.org/content/allacrost-large-battle-sprites-64x128-pixels

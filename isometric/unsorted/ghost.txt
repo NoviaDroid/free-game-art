@@ -1,0 +1,4 @@
+author: devSyed
+license: CC-BY
+source: http://opengameart.org/content/djinn-sprite-or-ghost
+

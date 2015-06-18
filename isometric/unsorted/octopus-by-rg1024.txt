@@ -1,0 +1,3 @@
+author: rg1024
+license: public domain
+origin: https://openclipart.org/detail/20079/little-octopus

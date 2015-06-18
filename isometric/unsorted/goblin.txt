@@ -1,0 +1,8 @@
+authors: Justin Nichol, Stephen Challener (Redshrike)
+License: CC-BY-SA
+
+I've also included resized version, compatible with most 64x32 isometric tilesets.
+
+source:
+http://opengameart.org/content/the-free-monsters
+http://opengameart.org/content/first-person-dungeon-crawl-protagonist

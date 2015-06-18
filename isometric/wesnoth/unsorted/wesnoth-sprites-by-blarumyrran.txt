@@ -1,0 +1,11 @@
+license: Public Domain
+author: Blarumyrran
+source: http://opengameart.org/content/blarumyrrans-publicdomain-wesnoth-sprites
+
+some of my unit sprites for "Battle for Wesnoth" ( wesnoth.org ). I think I will update it in the future, and dump some more here. Most are not used in mainline Wesnoth, some are not used anywhere (to my knowledge). Licensed by CC0 to public domain.
+
+(note: most Wesnoth assets are not in public domain; these are)
+
+
+Attribution Instructions: 
+Attribution is not required; if you want, then attribute it to blarumyrran@gmail.com

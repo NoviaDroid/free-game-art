@@ -1,0 +1,5 @@
+author: Michael Wight
+license: CC-BY-SA
+origin: http://opengameart.org/content/fish-man-squid-thing-and-four-young-adventurers-retreating-from-a-goblin-from-grim-portents
+
+The sprite I made from Michael Wight illustration.

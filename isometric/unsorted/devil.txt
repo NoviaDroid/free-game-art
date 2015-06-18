@@ -1,0 +1,5 @@
+author: Stephen Challener (Redshrike)
+license: CC-BY
+source: http://opengameart.org/content/6-more-rpg-enemies
+
+Adapted for isometry by Nikita Sadkov

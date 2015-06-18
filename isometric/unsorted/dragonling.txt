@@ -1,0 +1,5 @@
+author: Stephen Challener (Redshrike)
+license: CC-BY, OGA-BY
+origin: http://opengameart.org/content/odds-and-ends
+
+recolored to match Yar's tileset palette

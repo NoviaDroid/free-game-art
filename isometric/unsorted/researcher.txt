@@ -1,0 +1,5 @@
+author: Anthony Myers
+License: CC-BY 3.0
+source: http://opengameart.org/content/researcher
+
+I've also provided a sprite compatible with 64x32 isometric tilesets.

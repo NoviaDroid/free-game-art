@@ -1,0 +1,8 @@
+license: Public Domain
+author: Blarumyrran
+source: http://opengameart.org/content/old-stone-buildings
+
+Buildings, made for Wesnoth.
+
+Attribution Instructions: 
+Attribution is not required; if you want, then attribute it to blarumyrran@gmail.com

@@ -1,0 +1,3 @@
+Author: surt (Carl Olsson)
+License: CC-BY-SA, GPL3, GPL2
+origin: http://opengameart.org/content/botty

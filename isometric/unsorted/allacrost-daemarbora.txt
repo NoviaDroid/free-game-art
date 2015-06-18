@@ -1,0 +1,3 @@
+License: GPL2
+
+Taken from Hero of Allacrost repository (https://sourceforge.net/projects/allacrost/)
