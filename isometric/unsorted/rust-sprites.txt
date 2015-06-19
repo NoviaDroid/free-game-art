@@ -1,0 +1,7 @@
+Author: virtualtoy
+source: http://opengameart.org/content/rust-sprites
+
+Sprites created for R.U.S.T. - game made for Procedural Death Jam. Game can be played here: http://virtualtoy.github.io/rust/
+
+Attribution Instructions: 
+Link to web-site virtualtoy.me
