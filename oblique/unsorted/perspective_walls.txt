@@ -1,0 +1,11 @@
+author: Clint Bellanger
+license: Public Domain
+origin: http://opengameart.org/content/perspective-walls-template
+
+
+Many old games (notably Ultima VII) used this ortho 45 degree perspective; it's fairly easy to create pixel art in this style.  Here is a template for making graphics in this style.
+
+The base tile size is 32x32, while the entire tile is 64x64.  Walls are 16 pixels thick, doors are 8 pixels thick.  A table and book are also provided for reference.
+
+If your map needs layers, the walls line up to stack on top of each other.
+
