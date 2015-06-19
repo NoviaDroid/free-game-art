@@ -1,0 +1,9 @@
+Author: yinakoSGA
+License: CC-BY 3.0
+origin: http://opengameart.org/content/city-decorations-free
+
+These sprite contains simple clean rendered Isometric objects, suitable for placment in a city scene, contain several arrange props including cars, street lights, fences and flower decorations See screen shot for detailed list of each sprite size
+
+Contains 41 separate PNG sprite files with transparency.
+
+Full set here: http://supergameasset.com/props/city-decorations
