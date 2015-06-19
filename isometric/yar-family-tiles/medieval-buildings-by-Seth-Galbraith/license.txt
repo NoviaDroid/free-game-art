@@ -1,0 +1,5 @@
+author: Seth Galbraith
+license: CC-BY
+origin: http://opengameart.org/content/isometric-64x64-medieval-building-tileset
+
+Designed for use with Yar's Isometric 64x64 Outside Tileset. The outdoor image was made with both tilesets. Houses inspired by Clint Bellanger's Medieval Building Tiles.

@@ -1,0 +1,12 @@
+author: Narzilian (WWW.CGWAREZ.EU)
+license: CC-BY 3.0
+source: http://opengameart.org/content/housing
+
+A small set of simple housing sprites and a construction site.
+
+I made them once for a game, but that paused since i seriously lack coding skills:)
+
+So feel free to use them in your own games. (please credit me)
+
+http://www.cgwarez.eu/
+CG warez the ultimate cg recources site. Although we are still in beta phase you can already sign up. Sign up for free, and get your first high res images for free.

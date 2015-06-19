@@ -1,0 +1,7 @@
+author: Yar (http://opengameart.org/users/yar)
+license: CC-BY
+
+origin: http://www.pixeljoint.com/pixelart/49116.htm
+Feel free to use them for games, etc. The full tileset is here: opengameart.org/content/isometric-64x64-outside-tileset
+
+64 x 64 isometric pixel art tileset. Use, add to, or modify as you see fit - credit is appreciated.
