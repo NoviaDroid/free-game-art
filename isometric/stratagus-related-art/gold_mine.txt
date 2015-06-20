@@ -1,0 +1,6 @@
+Authors: Nikita Sadkov, Daniel Cook, Jinn
+License: CC-BY-SA
+Origin: http://opengameart.org/content/gold-mine
+        http://www.lostgarden.com/2007/04/free-game-graphics-tyrian-ships-and.html
+
+Gold mine sprite based on Tyrian rocks by Daniel Cook and Wyrmsun's gold mine by Jinn. Both licensed under CC-BY-SA

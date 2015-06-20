@@ -1,4 +1,5 @@
-license: CC-BY-SA
-author: Nikita Sadkov
+Author: Nikita Sadkov
+License: CC-BY-SA
+Origin: https://github.com/saniv/free-game-art
 
 I've drawn these sprites from scratch.
