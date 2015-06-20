@@ -1,0 +1,9 @@
+author: BlackMoon Design
+origin: http://opengameart.org/content/big-space-gun-free-pixel-art-graphics-for-your-game-0
+license: Public Domain (CC0)
+
+
+We’ve been working in BlackMoon on the game called “Big Space Gun”. It supposed to be a “Invaders” little clone, with nice pixel-art graphics and some humorous story. I’ve made a bunch of graphics, we even had a working prototype for the game, but the game didn’t feel quite right. We decided to postpone it at first, and finally buried the project few weeks ago.
+But – there’s no reason for the pixel-art assets made for this game to be lost&forgotten in our archive. Therefore – I decided to give them away to anyone who would like to use them in their own games or other projects. It’s released under WTFPL licence. Just remember to shout on our site
+
+http://blackmoondev.com/big-space-gun-free-pixel-art-graphics-for-your-game/
