@@ -1,0 +1,7 @@
+Author: Various Authors
+License: Public Domain
+origin: https://code.google.com/p/crawl-tiles/
+
+Crawl Stone Soup (http://crawl.develz.org/wordpress/) has graphical tiles based upon rltiles (http://rltiles.sourceforge.net/) with many modifications/additions.
+
+Those making these changes have signed off their copyright, returning these tiles to a license similar to "public domain", CC Zero (http://creativecommons.org/publicdomain/zero/1.0/).

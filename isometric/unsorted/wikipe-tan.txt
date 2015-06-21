@@ -1,0 +1,4 @@
+authors: Nikita Sadkov, Kasuga, Erimaxbau
+license: CC-BY-SA
+origin: https://commons.wikimedia.org/wiki/File:Wikipe-tan_sorceress_color.svg
+        https://commons.wikimedia.org/wiki/File:Wikipe-tan_sorceress.png
