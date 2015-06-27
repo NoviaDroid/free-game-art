@@ -1,0 +1,5 @@
+author: Lanea Zimmerman, William.Thompsonj, madmarcel
+license: CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-flower-grow-cycle
+        http://opengameart.org/content/lpc-misc
+        http://opengameart.org/content/lpc-flower-recolor

@@ -1,0 +1,4 @@
+author: Lanea Zimmerman, William.Thompsonj
+license: CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-misc
+        http://opengameart.org/content/lpc-flower-recolor
