@@ -1,0 +1,3 @@
+author: Csaba Felvegi (chabull)
+license: CC-BY-3.0
+origin: http://opengameart.org/content/potions-7
