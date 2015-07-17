@@ -1,0 +1,10 @@
+author: Daniel Harris "Hyptosis" (http://www.lorestrome.com/pixel_archive/main.htm)
+license: cc0 (Public Domain)
+origin: http://opengameart.org/content/bone-planet
+
+
+This is an rpgmaker firendly tileset I made a while back for a game that never got finished. I thought I'd release it to the public. Fell free to use it in any of your games, even games you plan to sell. You owe me nothing maybe short of a free copy of your game when it is finished! Edit these, do whatever you want with them!
+
+ 
+
+I'll be updating www.lorestrome.com with new tilesets in the future! I'll try to include new ones here as well when I release them. Go make games! :D
