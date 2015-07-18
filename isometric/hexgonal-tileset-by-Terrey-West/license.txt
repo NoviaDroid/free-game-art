@@ -1,0 +1,12 @@
+author: Terrey West (Ter13)
+license: CC-BY-SA 3.0
+source: http://www.byond.com/forum/?post=1180534
+
+The author has generously agreed to release these tiles under CC-BY-SA 3.0 (see confirmation.png)
+
+"These were handmade with a minimal palette with nothing but paint. I harvested parts of my style and about half of the palette from Yar's most excellent free isometric tileset.
+
+Everything, however, was drawn by hand from scratch. (Which wouldn't be necessary to mention if it weren't this community.)"
+
+Copyright/Attribution Notice: 
+Hexagonal tileset created by Terrey West (Ter13) http://www.byond.com/forum/?post=1180534 http://www.pixeljoint.com/pixelart/76489.htm
