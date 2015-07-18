@@ -1,0 +1,8 @@
+author: kmatlockii (K.A. Matlock)
+License: CC-BY 3.0
+source: http://opengameart.org/content/isometric-grey-pyramid-6-color-pixel-art
+
+Created for a long-abandoned tower defense project. This tileset includes modular isometric blocks that can be used to build any shape. Damaged versions of each block are included as well. Enjoy!
+
+-- K.A. Matlock
+
