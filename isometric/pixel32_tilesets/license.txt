@@ -1,0 +1,5 @@
+author: pixel32 (Alex)
+license: cc0 (public domain)
+source: http://opengameart.org/users/pixel32
+
+"it's all public domain, so go wild."
