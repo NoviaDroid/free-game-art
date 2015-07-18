@@ -1,0 +1,14 @@
+author: Brian Pressley "evo"
+license: CC-BY 3.0
+source: http://opengameart.org/users/evo
+
+30+ rendered environment sprites. Originally created for an isometric game. Includes 14 sprite sheets. Most objects have 8 directions.
+
+Two isometric rendered homes with 8 directions each. (16 PNG Files)
+
+19 Rendered Characters (Static Images), and 7 Rendered Items. These were made for an old cancelled casual game project of mine.
+
+Enjoy.
+
+Copyright/Attribution Notice: 
+Credit Brian Pressley. Free for commercial and non-commercial projects.
