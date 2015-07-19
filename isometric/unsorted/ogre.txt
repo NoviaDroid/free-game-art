@@ -1,0 +1,10 @@
+author: David Garay Salazar "Nirdia Entertainment" (www.nirdia.com)
+licenses: CC-BY 3.0, CC-BY-SA 3.0, GPL2, GPL3
+origin: http://opengameart.org/content/cyclops-monster-2d
+
+The first vector monster I made. I didn't use parts on this one, so its a little harder to animate than the others. 
+
+Use the license you prefer.
+
+Copyright/Attribution Notice: 
+www.nirdia.com
