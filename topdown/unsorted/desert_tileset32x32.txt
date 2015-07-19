@@ -1,0 +1,3 @@
+author: CDmir (http://cdmir.weebly.com/)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/desert-tileset-1
