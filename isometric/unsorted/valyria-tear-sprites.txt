@@ -1,0 +1,11 @@
+author: Jetrel
+license: CC-BY-SA 3.0
+origin: https://sourceforge.net/projects/valyriatear/
+
+img/icons/actors/enemies/thing.png
+CC by SA 3.0 
+From Jetrel (OGA) (From thing enemy)
+
+img/icons/actors/enemies/yeti.png
+CC by SA 3.0
+From Jetrel (OGA) (From yeti enemy)

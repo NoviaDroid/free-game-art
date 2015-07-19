@@ -1,0 +1,6 @@
+author: Jesse McCarthy
+license: CC-BY 3.0
+source: http://opengameart.org/content/grue
+
+Attribution Instructions: 
+A mention in the credits is appreciated, but I honestly don't care as long as you don't try to pass it as your own.
