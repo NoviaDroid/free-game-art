@@ -1,0 +1,3 @@
+author: adythewolf
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/hex-tileset-pack

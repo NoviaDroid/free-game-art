@@ -1,0 +1,12 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/dungeon-tileset
+
+Got bored of this...
+
+An orthographic dungeon tileset, with some props and some basic unanimated characters. The tiles are 16x16, however most of them can be split into 8x8 tiles to be combined in more ways.
+
+Thanks to surt, being the author of the waterfall tile and of the wooden door.
+
+Attribution Instructions: 
+NOT REQUIRED, though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com

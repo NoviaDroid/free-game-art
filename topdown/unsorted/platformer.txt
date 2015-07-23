@@ -1,0 +1,7 @@
+author: Buch (Michele Bucelli)
+license: CC-BY 3.0
+source: http://opengameart.org/content/platformer-tiles-4
+
+
+Copyright/Attribution Notice: 
+Credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com, and credit Jeffrey Kern as the committer and creative consultant

@@ -1,0 +1,12 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/colony-sim-assets
+
+I once dreamed of making a space colony sim game. Never did, though I made some graphics for it - here they are.
+
+All the buildings come in three colour variation. There is a recolor made with DawnBringer's 32 color palette as well.
+
+The terrains are made of 16x16 tiles.
+
+Copyright/Attribution Notice: 
+NOT REQUIRED, though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com

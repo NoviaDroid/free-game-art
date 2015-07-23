@@ -1,0 +1,15 @@
+author: Varkalandar (Hansjörg Malthaner)
+license: CC-BY-SA 3.0, GPL2
+origin: http://opengameart.org/content/misc-sci-fi-tiles-isometric-64-and-128-pixel-raster
+        http://opengameart.org/content/simple-lineart-undersea-creature-tile-set
+        http://opengameart.org/content/isometric-city-road-64-pixel-raster
+        http://opengameart.org/content/simple-lineart-monsters
+        http://opengameart.org/content/isometric-bottles-glasses-and-vases
+        http://opengameart.org/content/railroad-track
+        http://opengameart.org/content/3-types-of-diesel-locomotives
+        http://opengameart.org/content/tigress-high-speed-train
+
+A small set of sci-fi related tiles from old projects of mine.
+
+Copyright/Attribution Notice: 
+For attribution, please state my name, Hansjörg Malthaner, and link here: http://opengameart.org/users/varkalandar

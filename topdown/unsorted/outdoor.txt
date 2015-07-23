@@ -1,0 +1,9 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/outdoor-32x32-tileset
+
+This began as an attempt to a high-resolution of http://opengameart.org/content/the-field-of-the-floating-islands. Not sure if succedeed, but here it is anyways. Didn't have time to put together a proper preview.
+
+
+Copyright/Attribution Notice: 
+NOT REQUIRED, though appreciated: credi me as Buch and link back to my OGA profile page

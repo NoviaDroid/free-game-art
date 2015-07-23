@@ -1,0 +1,7 @@
+author: Buch (Michele Bucelli)
+license: CC-BY 3.0
+source: http://opengameart.org/content/a-cute-dungeon
+
+What the title says. Zelda-like top-down perspective (which sort of implies: I know there are some perspective flaws). Floor tiles are 16x16, wall tiles (and the rest) are 32x32. (The idea is that 4 of the floor tiles are to be combined program-side into a 32x32 tile, so that all the combinations are covered).
+
+This comes from a job I made for a programmer who agreed this to be released under a free license. My thanks to him for this.

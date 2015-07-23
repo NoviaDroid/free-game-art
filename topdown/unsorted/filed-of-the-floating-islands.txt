@@ -1,0 +1,14 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/the-field-of-the-floating-islands
+
+Seems I'm never going to finish this, for it has been collecting dust on my desktop for, say, a month. So, here it is... Made of 16x16 tiles.
+
+EDIT: included the additions made by usr_share and surt
+
+EDIT2: keith karnage did some extra tiles which can be found here: http://opengameart.org/content/floating-islands-0
+
+EDIT3: I've added the snow tiles and some extra water tiles, together with the grass and water tiles all arranged in the same pattern that keith karnage proposed and used (see link above). Snow expansion was requested by Neil Wallace for supporting me on Patreon, so thanks goes to him as well :)
+
+Copyright/Attribution Notice: 
+NOT REQUIRED, though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com

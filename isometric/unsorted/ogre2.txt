@@ -1,0 +1,4 @@
+author: CruzR
+licenses: CC-BY-SA
+origin: http://opengameart.org/content/mechs-64x64
+

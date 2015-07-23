@@ -1,0 +1,23 @@
+author: Master484 (Vesa Vanhatupa)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/bullet-collection-2-m484-games
+
+Here are some more bullets for you; this is the M484 Games Bullet Collection number 2.
+
+For this set I tried to raise the quality a little bit; aiming for Arcade standards rather than Amiga standards. Although I don't know if that made any real difference in the end lol. But they look quite nice to me. :)
+
+The most notable things here are the 16-way blaster bullets, the spinners and the Gradius inspired ripple beam effects.
+
+And as you can notice I also included some "usage examples" there, which give some cool ideas of how the gfx might be used.
+
+And if you like these and are planning to use them in a shmup, then make sure to also check out the "Lightning Weapon" that I made earlier, it follows the same style:
+http://opengameart.org/content/m484-lightning-weapon
+
+
+Attribution Instructions:
+
+These graphics are in the Public Domain.
+Attribution is not needed.
+
+But if you wish to give me credit, then you can mention "Master484" as the original author, and maybe also put a link to my website: http://m484games.ucoz.com/
+

@@ -1,0 +1,18 @@
+author: Master484 (Vesa Vanhatupa)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/vertical-shmup-set-2-m484-games
+
+This is another complete gfx set for a basic vertical shoot'em up.
+
+The size of most things is 30*30 pixels. I included a few explosions and bullets, but if you need more then look at my earlier gfx sets that I have posted here at OGA; the older stuff should be fairly compatible with this one. :)
+
+The assets in this set are pretty much basic stuff: various objects and ground tiles for 2 levels.
+
+Notice that the tanks have 2 parts: turret and the base, so when using them you'll need to know how to program 2 sprites that are joined in all movements hehe. And also, notice the "yellow versions" of the sprites; those yellow frames are intended to be "damage flashes", which should look cool although I haven's tested them.
+
+Attribution Instructions
+
+These graphics are in the Public Domain.
+Attribution is not needed.
+
+But if you wish to give me credit, then you can mention "Master484" as the original author, and maybe also put a link to my website: http://m484games.ucoz.com/

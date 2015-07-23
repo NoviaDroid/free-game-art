@@ -1,0 +1,4 @@
+author: YD
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/a-set-of-units-for-freeciv
+

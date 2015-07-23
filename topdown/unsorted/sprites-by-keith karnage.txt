@@ -1,0 +1,7 @@
+author: Keith Karnage
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/minild59-sprite-sheet
+
+This was for the Mini Ludum Dare #59, theme: swapshop.  Everybody made their own version of a sprite sheet, and we all switched.  Or just switch between them all.  This was mine.  You can check out my game here:
+
+http://keithkarnage.itch.io/keith-karnage-in-the-omega-zone
