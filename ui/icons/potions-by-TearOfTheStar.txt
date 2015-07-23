@@ -1,0 +1,9 @@
+author: TearOfTheStar
+license: CC-BY-3.0
+origin: http://opengameart.org/content/16x16px-pixelart-potions
+
+
+Some random potions. 16x16px base. Preview scaled x2.
+
+Copyright/Attribution Notice: 
+If you are using my pixels, give me a credit and shoot me a message here or at Twitter @TearOfTheStar.

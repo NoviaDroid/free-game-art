@@ -1,0 +1,10 @@
+author: TearOfTheStar
+license: CC-BY-3.0
+origin: http://opengameart.org/content/32x32px-static-spooks-ghosts
+
+32x32px static Spooks \ Ghosts. 4 colors each. Lower row is negative of upper.
+
+Preview scaled x2. Animation is just an example.
+
+Copyright/Attribution Notice: 
+If you are using my pixels, give me a credit and shoot me a message here or at Twitter @TearOfTheStar.

@@ -1,0 +1,3 @@
+author: TearOfTheStar
+license: CC-BY 3.0
+source: http://opengameart.org/content/32x32px-top-down-stone-road-floor-tileset-template
