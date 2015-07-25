@@ -1,0 +1,3 @@
+Author: Redshrike
+license: OGA-BY, CC-BY 3.0
+orgin: http://opengameart.org/content/tower-defense-prototyping-assets-4-monsters-some-tiles-a-background-image

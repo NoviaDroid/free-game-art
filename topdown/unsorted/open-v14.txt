@@ -1,0 +1,5 @@
+author: Vander96 (Vander Silvio da Silva Jr)
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/spritesheet-of-a-man
+
+May be good for platformers or rts or rpgs etc definitely WIP. I'd love suggestions for new animations etc
