@@ -1,0 +1,3 @@
+author: Michael J Pierce (IsometricRobot)
+license: CC-BY-3.0
+origin: http://opengameart.org/content/pixel-flame-animation-2

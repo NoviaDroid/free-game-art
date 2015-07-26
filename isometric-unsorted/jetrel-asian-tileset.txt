@@ -1,0 +1,8 @@
+Author: Jetrel, Michael J Pierce
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/remix-of-jetrels-public-domain-japanese-strategy-concept
+        http://opengameart.org/content/japanese-buildings-isometric-strategy-game-mockup
+
+Some terrain and buildings that would be used in a strategy game in a Japanese setting, but that won't be developed further than that for the time being.
+
+One good use for these would be a strategy game in the style of those in the Romance of the Three Kingdoms series.
