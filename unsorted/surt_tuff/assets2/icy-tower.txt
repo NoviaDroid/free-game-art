@@ -1,0 +1,5 @@
+author: surt (Carl Olsson)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/icy-tower-chick-sprites
+        http://opengameart.org/content/icy-tower-fairy-sprites
+        http://opengameart.org/content/icy-tower-demon-sprites

@@ -1,0 +1,9 @@
+author: Locomalito
+license: GPL3
+source: http://opengameart.org/content/labbaye-des-morts
+        http://www.locomalito.com/abbaye_des_morts.php
+
+Tiles and sprites from the GPL3 Linux port of l'Abbaye des Morts by Locomalito.
+
+Copyright/Attribution Notice: 
+Locomalito - http://www.locomalito.com/
