@@ -1,0 +1,13 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/platformer-tiles-4
+
+
+This one was made for a commission that ended up in nothing (probably because of the poor quality of the majority of the work I had made... but that's another story).
+
+In any case, here you have it - 32x32 cave tileset made using colors from the Dawnbringer's 32 color palette.
+
+(yes, I know barrels' perspective is wrong - I won't bother fixing it anymore, but if you want to you're welcome)
+
+Attribution Instructions: 
+NOT REQUIRED though appreciated: credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com

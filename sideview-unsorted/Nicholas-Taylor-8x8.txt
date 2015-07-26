@@ -1,0 +1,7 @@
+author: Nicholas Taylor (etqws3)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/8x8-retro-style-platformer-tiles-background
+
+Just a quick tilesheet I made for practice. The background repeats along both axis.
+
+Drawn using the DB32 palette for compatibility. The main environment uses 4 colors.

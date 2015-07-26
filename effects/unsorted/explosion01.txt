@@ -1,0 +1,7 @@
+author: richtaur
+license: CC-BY-3.0
+origin: http://opengameart.org/content/bombada
+
+From my open source, Creative Commons game Bombada: http://playbombada.appspot.com/
+
+Use whatever you want, I'd just appreciate a link back to my company's website: http://www.lostdecadegames.com/

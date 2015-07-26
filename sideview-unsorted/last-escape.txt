@@ -1,0 +1,19 @@
+author: Stephen Challener (Redshrike) and Poss (junctions and ruined girders)
+license: CC-BY 3.0
+source: http://opengameart.org/content/pixel-art-tiles-from-last-escape
+
+
+OK, here are the tiles that I made for Last Escape!  Note that someone else did most of the additions to the steel girders, and when I find out who I'll add them into the credits here (edit--'twas Poss).  These could probably use some work (especially the sand), and I may come back to them at some point.  But for now, here they are in their glorious completion.  Also be sure to check out the game at http://opengameart.org/content/last-escape-reddit-game-jam-entry.
+
+As part of CC-By, please be sure to link back to OpenGameArt.org.
+
+Have fun, and as always I appreciate hearing if you do something with it.
+
+ 
+
+edit: ok, added some more edges to the rock tile!  Maybe more edges for the other tiles in the future!
+
+edit2: added loop edges for blocks.
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), hosted by OpenGameArt.org

@@ -1,0 +1,16 @@
+author: Clint Bellanger
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/boxy-bold-font
+
+Here's a simple bitmap font I threw together after seeing a similar example somewhere else.
+
+This font uses a blocky sans-serif style with thick vertical lines, a blocky outline, and thick drop shadow. The font itself is 5 pixels high, 8 pixels total with the outline/shadow. The glyphs are variable width (between 4 and 10 pixels).
+
+The font is meant to be used with "-1" pixel kerning -- where adjacent glyphs have overlapping outlines. See the preview for an example usage.
+
+Lower ASCII is represented except for lowercase letters. I thought it would be better for the style of this font to only inclue bold caps.
+
+Note that several glyphs are identical: zero and the letter O, one and the letter I, two and the letter Z, five and the letter S, etc. If your usage can't rely on context to tell which glyph is being used, you may need a different font.
+
+Attribution Instructions: 
+Not required, but you may optionally give credit to me (Clint Bellanger) by listing my name with the other attribution/credits list of your project. Alternatively, you can link to this page or my home page: http://clintbellanger.net

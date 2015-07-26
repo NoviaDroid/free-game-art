@@ -1,0 +1,9 @@
+author: Summer Thaxton, Kelly Dillon, Hannah Cohan and Stafford McIntyre
+license: CC-BY-SA 3.0
+source: https://play.google.com/store/apps/details?id=edu.elon.honors.price.maker
+        http://opengameart.org/content/art-from-platforge
+
+Tileset for platformer games, from PlatForge, the open source game maker for Android phones. The set consisting of Grass, Night, Castle and Snow tilesets
+
+Attribution Instructions: 
+Please attribute this art to the PlatForge project, as well as the artists: Summer Thaxton, Kelly Dillon, Hannah Cohan and Stafford McIntyre

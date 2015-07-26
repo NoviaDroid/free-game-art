@@ -1,3 +1,6 @@
 author: surt (Carl Olsson)
 license: CC-BY-SA 3.0, GPL 3.0, GPL 2.0
 source: http://opengameart.org/content/classical-ruin-tiles
+
+
+the hi-res version is by Albert Manhattan (http://opengameart.org/content/classical-ruin-tiles-0)

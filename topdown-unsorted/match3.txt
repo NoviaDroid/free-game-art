@@ -1,0 +1,11 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/match-3
+
+
+Toying with the usual DB32 palette around some match-three-like stones...
+
+EDIT: added usr_share's 16x16 DB16 version
+
+Attribution Instructions: 
+NOT REQUIRED, though appreciated: credit me as Buch and link back to my OGA profile page, and you might credit usr_share too if you use the 16x16 version

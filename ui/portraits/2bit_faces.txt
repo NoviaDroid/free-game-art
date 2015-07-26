@@ -1,0 +1,3 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/2-bit-doodle-people

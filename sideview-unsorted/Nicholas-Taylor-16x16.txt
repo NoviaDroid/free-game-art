@@ -1,0 +1,7 @@
+author: Nicholas Taylor (etqws3)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/generic-platformer-tileset-16x16-background
+        http://opengameart.org/content/16x16-square-block-variations
+        http://opengameart.org/content/square-block-textures
+
+Another quick one-day practice tileset. I figured these would help in prototyping simple platformers. The background is of course repeatable horizontally. Drawn with the DB32 palette.

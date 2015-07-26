@@ -1,0 +1,3 @@
+author: Hapiel
+license: CC-BY 3.0
+source: http://opp.opengameart.org/index.php/Category:Sprites

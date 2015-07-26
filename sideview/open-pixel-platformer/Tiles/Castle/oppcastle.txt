@@ -1,0 +1,10 @@
+author: Buch (Michele Bucelli)
+license: CC-BY 3.0
+source: http://opengameart.org/content/spooky-castle-tileset
+
+This was commissioned by Bart to expand the OpenPixelPlatformer set, and was made following their guidelines.
+
+EDIT: updated with a version that should be more OPP-compatible. The old version is still available (the last download file)
+
+Attribution Instructions: 
+Credit me as Buch and link back either to my OGA profile page or to http://blog-buch.rhcloud.com

@@ -1,0 +1,9 @@
+author: vk
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/candles-oil-lamp-and-eye-with-varied-stands
+
+
+Eye is included. Virtually there are 64(8 bases times 8 tops) variations.
+
+Attribution Instructions: 
+Attribution is optional; if you want, then attribute it to opengameart.org

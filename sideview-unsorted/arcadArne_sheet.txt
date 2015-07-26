@@ -1,0 +1,17 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/platformer-tiles-4
+
+
+Here comes a big bunch of definitely overdithered 16x16 arcade-like pieces, which could be useful with tetris clones, breakout clones, match three clones, some other clones, and occasionally might be used for some original game. Maybe they could be also put in use as UI pieces, but I'm afraid they're too small.
+
+They're part of an old game pack idea of mine which never saw the light.
+
+Everything made using Arne's 16 color palette.
+
+What else to say? Oh, I used this and this (surt's expansion, not my pieces) as reference and inspiration. And this too...
+
+Enjoy!
+
+Attribution Instructions: 
+NOT REQUIRED, though appreciated: credit me as Buch and link either back to my OGA profile page or to http://blog-buch.rhcloud.com

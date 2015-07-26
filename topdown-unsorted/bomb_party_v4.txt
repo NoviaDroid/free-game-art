@@ -1,0 +1,10 @@
+author: usr_share
+license: CC-BY
+source: http://opengameart.org/content/bomb-party-the-second-expansion
+
+This is a complete (though new sprites may require to be polished) expansion of a sprite sheet (by Cem Kalyoncu/cemkalyoncu - http://opengameart.org/content/bomb-party-expansion), which is in turn an expansion of the Bomb Party sheet by Matt Hackett/richtaur (http://opengameart.org/content/bomb-party).
+
+It provides the missing sideways and north movement sprites, as well as simple "wall" and "box" tiles. This makes it a complete sheet for a simple bomb-laying game.
+
+Attribution Instructions: 
+Original Bomb Party sprite sheet by Matt Hackett of Lost Decade Games, expanded by Cem Kalyoncu and /usr/share.

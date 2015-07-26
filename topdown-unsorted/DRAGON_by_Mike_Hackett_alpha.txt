@@ -1,0 +1,5 @@
+author: Mike Hackett
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/dragon-1
+
+Looks better on dark background

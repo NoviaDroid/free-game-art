@@ -1,0 +1,17 @@
+Author: Marcel van de Steeg (madmarcel)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/creepy-cake-land
+
+
+Was inspired by some artwork I saw on DeviantArt, started doodling in GIMP...and this is where I ended up.
+
+There should be enough here to make a weird little game and the art is simple enough so that colouring or adding stuff should be easy.
+
+Updated - Little bit of clean up, added some rooms and a sad little dude and his sad dog.
+
+Updated again: More stuff added. More rooms, buildings, characters and items and a rough spritesheet for the sad dude.
+
+ 
+
+Copyright/Attribution Notice: 
+Please credit me as Marcel van de Steeg and link back to my OGA profile page if possible. (http://opengameart.org/users/madmarcel)

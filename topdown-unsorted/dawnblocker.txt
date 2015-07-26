@@ -1,0 +1,17 @@
+author: Buch (Michele Bucelli)
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/dawnblocker-ortho
+        http://opengameart.org/content/extension-for-dawnblocker-ortho
+
+Wanted to enter the challenge now they're up again, so here it is:
+
+based upon Dawnblocker by surt, a set of 16x16-based ortographic bricks, boxes, stairs and ramps in 16 color variations made using Dawnbringer's 32 color palette. Mostly color testing rather than useful art, they might come in handy for puzzles and sokoban-like games.
+
+My only wish was I had some more time to add brick at least as many variations as in the original one...
+
+EDIT: rubberduck made a nice extension which you can find here
+
+Enjoy!
+
+Attribution Instructions: 
+NOT REQUIRED, though appreciated: credit me as Buch and link back to http://blog-buch.rhcloud.com

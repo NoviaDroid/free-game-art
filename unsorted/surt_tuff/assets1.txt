@@ -11,3 +11,9 @@ No need for attribution.
 All assets here are granted under CC0 1.0 Universal.
 
 If you do make use of some of it would be cool to hear about it, but this is purely optional.
+
+
+Pixel-art versions of dawntree.png, plates.png and dregbin.png are by vk
+http://opengameart.org/content/trees-1
+http://opengameart.org/content/some-tiles
+http://opengameart.org/content/dregbin
