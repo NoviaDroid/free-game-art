@@ -1,0 +1,5 @@
+author: superjoe
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/electrical-disintegration-animation
+        https://github.com/superjoe30/pillagers
+

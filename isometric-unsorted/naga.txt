@@ -1,0 +1,10 @@
+author: Stephen Challener (Redshrike)
+license: CC-BY
+origin: http://opengameart.org/content/3-rpg-enemy-remixes
+
+The Naga is based off of this sprite by Heather Lee Harvey (aka Emerald) : http://opengameart.org/content/loyalty-lies-monsters-earth-monster-04
+
+Adapted to isometry by Nikita Sadkov
+
+Attribution Instructions: 
+Stephen "Redshrike" Challener (Sprites), Heather Lee Harvey (concept) (EmeraldActivities.com)

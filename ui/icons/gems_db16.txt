@@ -1,0 +1,14 @@
+Authors: Clint Bellanger
+License: CC-BY-SA
+Origin: http://opengameart.org/content/gem-icons
+
+32x32 pixel icons using DawnBringer's 16 color palette.
+
+Made for Heroine Dusk.
+
+Includes a blue Sapphire, green Emerald, red Ruby, and white Diamond.
+
+Please contact me if you would like to use this work under a different license.
+
+Attribution Instructions: 
+Please include my name "Clint Bellanger" among your credits. Optionally, also include a link to this page or to http://clintbellanger.net or to http://heroinedusk.com

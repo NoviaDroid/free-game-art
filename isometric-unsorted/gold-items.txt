@@ -1,0 +1,38 @@
+Authors: Clint Bellanger
+License: CC-BY-SA
+Origin: http://opengameart.org/content/gold-treasure-icons
+
+32x32 pixel icons using DawnBringer's 16 color palette.
+
+Made for Heroine Dusk.
+
+Includes:
+
+- A single coin
+
+- Stack of 2 coins
+
+- Stack of 4 coins
+
+- Stacks of 8 coins
+
+- Stacks of 16 coins
+
+- Gold chalice
+
+- Three gold ingots/bars
+
+- Gold treasure chest
+
+- Gold crown
+
+- Gold sword sticking out of a gold pile
+
+I made these to represent an increasing amount of gold value. From 1 coin, to 2, 4, 8, 16, 32, 64, 128, 256, and 512 gold value. My idea for Heroine Dusk is to show the correct number of coins (or total value) when you loot gold. By checking the bits of the total gold amount, I can display a unique treasure pile per amount. E.g. 35 gold would be displayed as a chalice (32 gold), a stack of 2 gold, and the single coin.
+
+They can also be used as isometric loot appearing on maps or as inventory icons.
+
+Please contact me if you would like to use this work under a different license.
+
+Attribution Instructions: 
+Please include my name "Clint Bellanger" among your credits. Optionally, also include a link to this page or to http://clintbellanger.net or to http://heroinedusk.com

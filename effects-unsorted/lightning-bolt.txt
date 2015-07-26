@@ -1,0 +1,10 @@
+author: Clint Bellanger
+license: CC-BY-3.0
+origin: http://opengameart.org/content/lightning-shock-spell
+
+A projectile lightning spell for my RPG.
+
+64x64, 4 frames, 8 directions.
+
+Here I use a Blender particle-style Halo texture on a static mesh without an emitter.  I created a long repeating length of lightning first then sliced it into parts (so that it looks like the lightning is traveling and not just wiggling randomly).  Then some NLA positioning and rotating the camera to generate the rest.
+

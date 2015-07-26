@@ -1,0 +1,12 @@
+author: Chad Wolfe (The Chayed - KIIRA)
+license: CC-BY 3.0
+source: http://opengameart.org/content/ship-craft-modular-ship-building-pack-1-hadron-unit
+
+First part to a big project full of pieces to make pixelated space craft. Nothing extradordinarily new, but I was bored. Enjoy the collection here. Give credit please, and let me know if you used it. 
+
+This collection consists of pieces that all fit well together and have a limit of 16777216 possible comibinations. There are 5 different kinds of ship peices: Cockpit, Hull, Weapons, Thrusters, and Wings. With 8 different models for each. 
+
+The Hadron unit is comprised of dark ships with dim colors. Using the last model of each ship part creates a ship monstrously bad ass.
+
+Copyright/Attribution Notice: 
+KIIRA

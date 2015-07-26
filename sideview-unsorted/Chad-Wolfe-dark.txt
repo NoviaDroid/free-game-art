@@ -1,0 +1,10 @@
+author: Chad Wolfe (The Chayed - KIIRA)
+license: CC-BY 3.0
+source: http://opengameart.org/content/metroid-esque-dark-platformer-tileset
+
+A collection of Dark Tiles that can be used for mixed outdoor environments. Please credit me, and if you have and requests, email me, or contact me via my website.
+
+ 
+
+Copyright/Attribution Notice: 
+KIIRA
