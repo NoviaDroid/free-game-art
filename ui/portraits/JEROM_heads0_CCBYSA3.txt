@@ -1,0 +1,10 @@
+author: Jerom
+license: CC-BY-SA
+source: http://opengameart.org/content/heads-retro
+
+
+Small heads for a spaceship crew:
+- 12 humans
+- 4 aliens.
+
+4 grey colors only.

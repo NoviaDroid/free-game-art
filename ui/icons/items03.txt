@@ -1,0 +1,17 @@
+Author: Marcus Ihde (PriorBlue), Henrique Lazarini (Ails, 7soul1), Jerom, Crawl Stone Soup Team
+License: CC-BY-SA
+Origin: http://opengameart.org/content/recolor-all-the-items
+
+There are many great item sets out there, but to mix them is very difficult, because they use all different colors and art styles. After i saw the brilliant 16 color palette from DawnBringer (http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795), i had the idea to recolor "all" available items, skills, tiles, etc. which are under a free licence.
+
+At the moment i use a few of my own sprites,
+
+420 pixel art icons by 7Souls:
+http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
+http://7soul1.deviantart.com/?rnrd=74632
+
+32x32 Fantasy Tileset by Jerom:
+http://opengameart.org/content/32x32-fantasy-tileset
+
+Crawl Tiles from Dungeon Crawl Stone Soup:
+https://code.google.com/p/crawl-tiles/

@@ -1,0 +1,3 @@
+author: Christian Rosenbauer (Chrisblue)
+license: CC-BY-SA
+source: http://opengameart.org/content/warg

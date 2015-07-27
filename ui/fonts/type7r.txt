@@ -1,0 +1,9 @@
+author: Christian Rosenbauer (Chrisblue)
+license: CC-BY-SA
+source: http://opengameart.org/content/type7r-spritefont
+
+Type7r is a spritefont which was created for retro-styled projects. It's size is 7x7px and it is preformated to fit into construct 2's standard-settings. So it's basically plug and play. ^^
+
+I recommend setting the character spacing to -1 because it would be a 5x6px font without the outlines. ;)
+
+You can use it as you wish and if you use it: I would be happy to see your project. :)

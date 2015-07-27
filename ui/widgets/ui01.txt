@@ -1,0 +1,15 @@
+author: Chad Wolfe (The Chayed - KIIRA)
+license: CC-BY 3.0
+source: http://opengameart.org/content/small-rpg-ui
+        
+
+Just a small GUI that I made for a game that never happened.
+
+This small GUI UI can be reused and manipulated for your RPG purposes. This can be used as a normal RPG pause menu, but can also easily be rearranged to create any RPG menu in seconds. The section on the right includes all that you really neeed to do that, the section on the left is there for party customization and such. 
+
+I may add more to this later. As you can probably tell, I've been doing things on and off here and there out of pure inspiration.  
+
+.xcf file format included only, as different objects in the gui are on different layers of the GUI. 
+
+Copyright/Attribution Notice: 
+KIIRA
