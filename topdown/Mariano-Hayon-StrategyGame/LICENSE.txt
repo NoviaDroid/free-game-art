@@ -1,0 +1,7 @@
+author: Mariano Hayon
+license: CC-BY
+origin: http://opengameart.org/content/complete-set-of-graphics-for-rts
+
+A complete set of graphics for an RTS game, Warcraft II style.
+
+PD: if you use it, give credit to Mariano Hayón

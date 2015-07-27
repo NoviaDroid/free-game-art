@@ -1,0 +1,3 @@
+author: Tayoko (http://tayokoart.com/)
+license: CC-BY-SA, GPL2, GPL3
+source: http://opengameart.org/content/overworld-rpg-tileset

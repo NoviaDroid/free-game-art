@@ -1,0 +1,13 @@
+Author: qubodup, Bart K., Blarumyrran
+License: GPL2, GPL3, CC-BY-SA
+Origin: http://opengameart.org/content/oga-community-tileset-nature
+
+
+This is the first piece of the OpenGameArt.org community tileset, containing woodland tiles.
+
+You must credit the following contributors:
+
+qubodup
+Bart K.
+Blarumyrran
+You must also note that these tiles are from the OpenGameArt.org Community Tileset, and include a link back to http://opengameart.org

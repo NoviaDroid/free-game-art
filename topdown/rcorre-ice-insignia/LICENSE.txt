@@ -1,0 +1,12 @@
+author: Ryan Roden-Corrent (rcorre)
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/rpg-itemterraincharacter-sprites-ice-insignia
+
+I put together some 2D art while  working on a personal game project called Ice Insignia (a Fire Emblem like game). I've since abandoned the project, but figured I'd upload some of the assets in case someone finds them useful.
+
+I'm more of a programmer than an artist, but maybe these will serve as a nice starting point for a 2D RPG/Strategy game.
+
+I used lotusware's pixel art tutorial  as a guide while creating the terrain.
+
+Copyright/Attribution Notice: 
+If you'd like to attribute me, attribute 'rcorre' and/or link to my Github page: https://github.com/rcorre (I don't currently have a personal website).

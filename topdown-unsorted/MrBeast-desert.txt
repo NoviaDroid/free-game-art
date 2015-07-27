@@ -1,0 +1,10 @@
+author: MrBeast
+license: CC-BY 3.0
+source: http://opengameart.org/content/desert-tileset-0
+
+Yep, another commisioned tileset for OGA.
+
+I made quite a few tilesets for OGA so far: Overview
+
+Copyright/Attribution Notice: 
+Art by MrBeast. Commissioned by OpenGameArt.org (http://opengameart.org)

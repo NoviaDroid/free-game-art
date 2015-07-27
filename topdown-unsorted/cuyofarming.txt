@@ -1,0 +1,13 @@
+author: caeles
+license: GPL2
+source: hhttp://opengameart.org/content/cuyo-level-farming
+
+
+These are the graphics for the Cuyo level Farming. The tile size is 32x32, but in order to get a full set of tiles, the 16x16 sub-tiles have to be rearranged.
+
+This set of assets uses Dawnbringer's db32 palette.
+
+The graphics are dual licensed under the GPLv2 and under the OINM license version 0 (see http://www.weyer-zuhause.de/mark/software/oinm_license_0).
+
+Copyright/Attribution Notice: 
+Copyright 2014 by Mark Weyer

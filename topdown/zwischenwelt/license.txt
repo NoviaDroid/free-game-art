@@ -1,0 +1,10 @@
+Author: Sebastian Hagish
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/zwischenwelt-tileset
+
+
+Tileset of the game zwischenwelt ( http://zwischenwelt.org/ ). The game itself is inactive for several years now (although it might still be online). 
+
+People that contributed to this set (alphabetically): darian, elara, ghoulsblade, hagish (me), isha
+
+It contains a lot of single images and prepared spritesheets + json meta files (texturepacker). There is also a small tiled example map.

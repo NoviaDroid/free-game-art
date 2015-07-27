@@ -1,0 +1,10 @@
+author: MrBeast
+license: CC-BY 3.0
+source: http://opengameart.org/content/worldmapoverworld-tileset
+
+Yet another tilset commisioned by OGA.
+
+16x16 tileset for a worldmap.
+
+Copyright/Attribution Notice: 
+Art by MrBeast. Commissioned by OpenGameArt.org (http://opengameart.org)

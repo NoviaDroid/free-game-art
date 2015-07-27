@@ -1,0 +1,3 @@
+author: Lanea Zimmerman (Sharm)
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/16x16-overworld-tiles

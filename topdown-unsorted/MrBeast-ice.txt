@@ -1,0 +1,11 @@
+author: MrBeast
+license: CC-BY 3.0
+source: http://opengameart.org/content/arctic-tileset
+
+Made/edited for the Eternal Ice Art Challenge!!!
+
+Very little of this work was done myself as I took most of it from MrBeast's Incredible desert tileset
+
+I did however create the little inuit type character from scratch which I'm quite impressed with (they are actually awful...) seeing as I'm not a pixel artist :P
+
+If you use the tileset you should credit MrBeast!

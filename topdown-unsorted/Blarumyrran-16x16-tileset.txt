@@ -1,0 +1,29 @@
+author: Blarumyrran, Bart, surt
+license: CC-BY-SA, GPL2, GPL3
+source: http://opengameart.org/content/16x16-tileset-water-dirt-forest
+
+
+Includes slightly changed surt's tileset, to make them fit with each other, from:
+
+http://opengameart.org/content/town-tiles
+
+http://opengameart.org/content/forest-tiles
+
+ 
+
+Dirt edited from 32x32 dirt by Bart, also used in:
+
+http://opengameart.org/content/oga-community-tileset-nature ()
+
+ 
+
+Authors:
+
+Blarumyrran
+
+Bart
+
+surt
+
+Copyright/Attribution Notice: 
+Art by Blarumyrran, Bart, and surt
