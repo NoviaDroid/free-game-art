@@ -1,0 +1,14 @@
+author: syntax errol
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/orb-game-art
+
+
+
+most of the art from beta version 0.115.
+
+ click for gif animation.
+
+files are in png and work files in .pyxel (www.pyxeledit.com)
+
+Copyright/Attribution Notice: 
+Free to use for any project. credit is appreciated if used seriously. Let me know if you have any use of this.

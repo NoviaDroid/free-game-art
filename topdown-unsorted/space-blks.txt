@@ -1,0 +1,8 @@
+author: Marc Russell (www.spicypixel.net)
+license: CC-BY 3.0
+source: http://opengameart.org/content/alien-breed-esque-top-down-tilesheet
+
+This tileset was somewhat inspired by Alien Breed on the amiga. Not necessarily totally by the graphics style as Rico is a pixel god :) but by the view (Gauntlet style also). Hope you like them.
+
+Attribution Instructions: 
+Just credit myself Marc Russell and provide either a link to www.spicypixel.net or a mention of the website.

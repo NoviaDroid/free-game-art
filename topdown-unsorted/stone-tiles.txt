@@ -1,0 +1,3 @@
+author: DeadKir
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/tiles-3
