@@ -1,0 +1,3 @@
+author: LokiF
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/health-bar-and-heart-icon

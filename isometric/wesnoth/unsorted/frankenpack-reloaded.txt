@@ -1,0 +1,4 @@
+Author: Wesnoth Team
+License: GPL2
+Origin: http://wesnoth.org/
+        http://opengameart.org/content/wesnoth-frankenpack
