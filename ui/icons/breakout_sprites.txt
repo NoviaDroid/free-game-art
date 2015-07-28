@@ -1,0 +1,4 @@
+Authors: Marcus 'Mopz' (http://www.naalaa.com/ http://opengameart.org/users/mopz)
+License: СС0 (Public Domain)
+Origin: http://opengameart.org/content/breakout-graphics-no-shadow
+        http://opengameart.org/content/breakout-graphics

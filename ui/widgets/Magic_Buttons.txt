@@ -1,0 +1,3 @@
+author: Chad Wolfe (The Chayed - KIIRA)
+license: CC-BY 3.0
+source: http://opengameart.org/content/magic-buttons
