@@ -1,0 +1,3 @@
+author: Carl Olsson (surt)
+license: CC-BY 3.0, GPL2, GPL3
+source: http://opengameart.org/content/omega-team
