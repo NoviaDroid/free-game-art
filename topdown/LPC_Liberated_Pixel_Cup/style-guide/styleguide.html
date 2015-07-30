@@ -1,0 +1,301 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Liberated Pixel Cup styleguide &mdash; Liberated Pixel Cup styleguide v documentation</title>
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '',
+        COLLAPSE_MODINDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="Liberated Pixel Cup styleguide v documentation" href="index.html" />
+   
+  
+
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li><a href="index.html">Liberated Pixel Cup styleguide v documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="liberated-pixel-cup-styleguide">
+<h1>Liberated Pixel Cup styleguide<a class="headerlink" href="#liberated-pixel-cup-styleguide" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="preamble-rationale">
+<h2>Preamble / Rationale<a class="headerlink" href="#preamble-rationale" title="Permalink to this headline">¶</a></h2>
+<p>The purpose of this style guide is to allow pixel artists to
+collaborate on a top-down set of artwork and produce content that is
+stylistically coherent.  Currently there is a lot of artwork in the
+commons for games, but it&#8217;s hard to get it to work together.  We&#8217;ve
+been greatly inspired by work by the <a class="reference external" href="http://tango.freedesktop.org/">Tango Project</a> and the work they&#8217;ve done.  To that
+end we&#8217;ve intentionally built a style guide for artwork that should be
+easy to collaborate on for both intermediate and advanced pixel
+artists.</p>
+<p>Inspired roughly by a variety of 16 bit era top-down games along the
+lines of Harvest Moon, Zelda: A Link to the Past, Final Fantasy,
+et cetera.  Many games from this perspective are RPG like, but we hope
+this style guide will be useful for a variety of games... indeed, we
+chose this style because of its versatility: we hope
+farming/simulation games, strategy games, top-down shooters, puzzle
+games, and of course also RPGs, will be built from artwork built with
+this style.</p>
+<p>This guide is not a tutorial on how to make pixel art generally, but
+rather a specification for a particular style.  If you are new to
+pixel art entirely, we recommend you check out the resources at the
+bottom first before proceeding.</p>
+</div>
+<div class="section" id="grid-size">
+<h2>Grid size<a class="headerlink" href="#grid-size" title="Permalink to this headline">¶</a></h2>
+<p>The general tile grid is 32x32 with (possible) sub tiles at 16x16.
+The rationale being that the basic size of a square object (eg a chair
+or a character) is a 32x32 area.  All base assets are designed to work
+at 32x32 tiling, and it&#8217;s recommended that you build yours to be so as
+well.  However, for versatility tiling can happen at 16x16 resolution.</p>
+<img alt="32x32 grid example" src="_images/32x32grid.png" />
+</div>
+<div class="section" id="perspective">
+<h2>Perspective<a class="headerlink" href="#perspective" title="Permalink to this headline">¶</a></h2>
+<p>The camera angle is top-down, roughly 60 degrees.</p>
+<p>Rendering should be orthographic, which means there is <em>no</em>
+perspective... things <strong>do not</strong> get smaller as they move into the
+distance.  If you&#8217;re using perspective techniques on your props or
+tiles, that&#8217;s wrong.</p>
+<img alt="Chest perspective example" src="_images/chest_perspective.png" />
+<p>The following image is a 3d rendering
+(<a class="reference external" href="_static/images/perspective.blend">source</a>)
+demonstrating orthographic projection.  For examples of actual
+proportions, see existing body of pixel art.</p>
+<img alt="60 degree camera perspective example" src="_images/60perspective.png" />
+</div>
+<div class="section" id="lighting-colors-and-shading">
+<h2>Lighting, colors, and shading<a class="headerlink" href="#lighting-colors-and-shading" title="Permalink to this headline">¶</a></h2>
+<p>Roughly a &#8220;toon style rendering&#8221; with medium-low levels of texturing.
+We want some detail, but not so much that things are so ornate that it
+might make collaboration difficult.  We don&#8217;t want things to be
+&#8220;noisy&#8221; either.  But detail is good.  Texturing should have a
+toon-style; this is accomplished with medium to low amounts of
+texturing.  Details should be used sparsely, so make them count!</p>
+<p>Shade in blocks.  Begin drawing by blocking out the object first,
+paying attention to its volume.  Lines should be added afterward, and
+generally only around the edges and with very important details.
+Details should mostly be implied by form and color, not by outlines.</p>
+<img alt="Process of blocking in a sprite" src="_images/process-scaled.png" />
+<p>Lighting should primarily come from above.  If there is any side
+directionality, it should come from the left, but not by much: keep it
+mostly center.</p>
+<img alt="Lighting example" src="_images/sunpoint.gif" />
+<p>An <a class="reference external" href="_static/images/perspective.blend">example scene in blender</a> with
+a sun light pointing in the appropriate location:</p>
+<img alt="Lighting blender screenshot example" src="_images/lighting_direction.png" />
+<p><em>Left example shows from the &#8220;top-facing&#8221; camera used in this style;
+right example shows a sideview.  Yellow &#8220;sun&#8221; with ray is the light
+source, big orange triangle on right is the camera.</em></p>
+<p>Your light to dark color ramps should <em>never</em> all have the same hue.
+Vary the hue and saturation a bit as you go from light to dark, or
+your objects will look flat.</p>
+<p>To create shadows or lowlights, once you have the main color the shade
+you want it to be move the hue (hsv selector) slightly towards the
+closest purple. To create highlight color, do the same but instead of
+purple and shade move the hue slightly towards the closest yellow and
+lighten it up. Adjust as necessary until it looks &#8220;right&#8221;.</p>
+<p>Inside, things will be cooler in overall color, with slightly less
+contrast.  This is doubly true for things like basements, caves and
+other underground areas.</p>
+<p>All drop shadows should be done with the color #322125 at 60 percent
+opacity.  If it makes sense, one may also provide a combined version
+of two tiles, so only one layer is needed to, say, put a house on a
+grass background.</p>
+<p>Dithering should be used sparingly if at all.  None of the base
+artwork has dithering.</p>
+<p>There&#8217;s no specific palette <em>required</em> for Liberated Pixel Cup asset
+conformance, but it&#8217;s generally best to try to match to the colors
+used in the base set.  So that said, here&#8217;s a palette that may be
+useful in producing matching assets.</p>
+<img alt="Suggested palette" src="_images/colors.png" />
+</div>
+<div class="section" id="outlines">
+<h2>Outlines<a class="headerlink" href="#outlines" title="Permalink to this headline">¶</a></h2>
+<img alt="Rock outline demo" src="_images/rock_outlinedemo.png" />
+<p>Outlines should be a darker version of the current color, or a dark
+color generally, not black.  (Extreme circumstances obviously may have
+exceptions.)</p>
+</div>
+<div class="section" id="tile-authoring">
+<h2>Tile authoring<a class="headerlink" href="#tile-authoring" title="Permalink to this headline">¶</a></h2>
+<p>Details are simplistic.  There are more details on the edges, and the
+center tile should be either one color or a very subtle pattern.</p>
+<p>Occasional detail tiles should be thrown in to break the monotony of
+having a single repeating tile.</p>
+<p>Edged tiles such as walls and floors should be arranged in a similar
+manner as the establishing art.</p>
+<img alt="An example scene using tiles from the base set" src="_images/tiles_example_scene.png" />
+<p><em>Demonstrating creating tiles that can be used to make more complex
+patterns.</em></p>
+</div>
+<div class="section" id="characters">
+<h2>Characters<a class="headerlink" href="#characters" title="Permalink to this headline">¶</a></h2>
+<p>Characters should have their own color palettes so that they stand out
+from the background.  Drop shadows should follow the same rule as the
+tiles, #322125 at 60% opacity.</p>
+<p>Characters are squashed, roundish, and not realistically proportioned.
+Bases are approximately two and a half heads tall and in the same
+perspective as the tiles.  The base should fit in a 32x48 space and
+the clothing should fit in 48x64 space.  The outlines should be black
+or near black, no selective outlining.</p>
+<img alt="Example of unaccessorized characters" src="_images/characters_nude.png" />
+<p>We have provided a <a class="reference external" href="assets.html#assets-character-base"><em>character base</em></a> that
+you can accessorize.  (Of course, deviating from this base is
+perfectly fine if it makes sense; just try to keep your work within
+the style as described in this document and squashed stylization we
+keep generally for characters.)</p>
+<img alt="Example of unaccessorized characters" src="_images/characters_accessorized.png" />
+<p>If you are making an animation sheet that has multiple perspectives,
+you should generally vertically sort that sheet into rows in this
+order: back, left, front, right.  Having the sprites arranged this
+way simplfies the code side of things a little bit.</p>
+<img alt="Spellcasting female to demonstrate direction" src="_images/female_spellcast.png" />
+<p>These concepts can generally be expanded to monsters and other
+creatures, of course accounting for different proportions of said
+characters.</p>
+</div>
+<div class="section" id="props-and-other-objects">
+<h2>Props and other objects<a class="headerlink" href="#props-and-other-objects" title="Permalink to this headline">¶</a></h2>
+<p>Props should be colored so that they don&#8217;t blend in with the
+surrounding background tiles (vary color, brightness, and saturation
+to provide contrast).</p>
+<p>There&#8217;s should be a large difference in lighting between the sides and
+the top of objects.  Look at these objects as example:</p>
+<img alt="Examples of object lighting via a barrel and a bucket" src="_images/barrel_and_bucket.png" />
+<p>Props should have shadows, or they will appear not to be part of the
+scene.  Shadows should follow the same transparency blending rules as
+mentioned in the &#8220;lighting and shadows&#8221; section above.</p>
+</div>
+<div class="section" id="things-that-are-important-enough-to-be-worth-repeating">
+<h2>Things that are important enough to be worth repeating<a class="headerlink" href="#things-that-are-important-enough-to-be-worth-repeating" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<ul class="simple">
+<li>No pure colors!</li>
+<li>Vary the hues of your color ramps!</li>
+<li>Highlighted areas are yellow-ish, shadowed areas are purple-ish.</li>
+<li>Block your art out first, including shadows, before adding detail.</li>
+</ul>
+</blockquote>
+</div>
+<div class="section" id="useful-generalist-resources">
+<h2>Useful, generalist resources<a class="headerlink" href="#useful-generalist-resources" title="Permalink to this headline">¶</a></h2>
+<p>These articles do not directly apply to the style we are building
+here, but may help people get involved:</p>
+<p>Pixel Tutorials:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://tkool.jp/fancontents/lecture/graphic/">http://tkool.jp/fancontents/lecture/graphic/</a> &#8211; It&#8217;s in Japanese,
+but the tutorials are thorough and the art is all you really need to
+figure out what they&#8217;re teaching.</li>
+<li><a class="reference external" href="http://gas13.ru/v3/tutorials/">http://gas13.ru/v3/tutorials/</a> &#8211; Excellent for teaching the why of
+pixel art, not just the how.  &#8220;So you want to be a Pixel Artist&#8221; is
+highly recommended.</li>
+<li><a class="reference external" href="http://www.pixeljoint.com/forum/forum_posts.asp?TID=11299">http://www.pixeljoint.com/forum/forum_posts.asp?TID=11299</a> &#8211; A good
+general course on what pixel art is and how to start making it.</li>
+<li><a class="reference external" href="http://opengameart.org/content/les-forges-pixel-art-course">http://opengameart.org/content/les-forges-pixel-art-course</a> &#8211; A pixel
+art course that&#8217;s so good that we translated and mirrored it.
+Originals in French here: <a class="reference external" href="http://www.lesforges.org/tag/pixel%20art">http://www.lesforges.org/tag/pixel%20art</a></li>
+<li><a class="reference external" href="http://www.natomic.com/hosted/marks/mpat/">http://www.natomic.com/hosted/marks/mpat/</a> &#8211; Decent set of resources,
+though most important is maybe the <a class="reference external" href="http://www.natomic.com/hosted/marks/mpat/shading.html">shading piece</a> which
+describes how to avoid the dreaded &#8220;pillow shading&#8221; style and think
+about lighting placement.</li>
+</ul>
+<p>Tiling:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://www.squidi.net/mapmaker/musings/m091016.php">http://www.squidi.net/mapmaker/musings/m091016.php</a> &#8211; Describes
+patterns for reusable tiling</li>
+<li><a class="reference external" href="http://www.codeproject.com/Articles/106884/Implementing-Auto-tiling-Functionality-in-a-Tile-M">http://www.codeproject.com/Articles/106884/Implementing-Auto-tiling-Functionality-in-a-Tile-M</a>
+&#8211; another tiling pattern, simpler than the &#8220;blob&#8221; pattern above</li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+            <h3><a href="index.html">Table Of Contents</a></h3>
+            <ul>
+<li><a class="reference external" href="#">Liberated Pixel Cup styleguide</a><ul>
+<li><a class="reference external" href="#preamble-rationale">Preamble / Rationale</a></li>
+<li><a class="reference external" href="#grid-size">Grid size</a></li>
+<li><a class="reference external" href="#perspective">Perspective</a></li>
+<li><a class="reference external" href="#lighting-colors-and-shading">Lighting, colors, and shading</a></li>
+<li><a class="reference external" href="#outlines">Outlines</a></li>
+<li><a class="reference external" href="#tile-authoring">Tile authoring</a></li>
+<li><a class="reference external" href="#characters">Characters</a></li>
+<li><a class="reference external" href="#props-and-other-objects">Props and other objects</a></li>
+<li><a class="reference external" href="#things-that-are-important-enough-to-be-worth-repeating">Things that are important enough to be worth repeating</a></li>
+<li><a class="reference external" href="#useful-generalist-resources">Useful, generalist resources</a></li>
+</ul>
+</li>
+</ul>
+
+            <h3>This Page</h3>
+            <ul class="this-page-menu">
+              <li><a href="_sources/styleguide.txt"
+                     rel="nofollow">Show Source</a></li>
+            </ul>
+          <div id="searchbox" style="display: none">
+            <h3>Quick search</h3>
+              <form class="search" action="search.html" method="get">
+                <input type="text" name="q" size="18" />
+                <input type="submit" value="Go" />
+                <input type="hidden" name="check_keywords" value="yes" />
+                <input type="hidden" name="area" value="default" />
+              </form>
+              <p class="searchtip" style="font-size: 90%">
+              Enter search terms or a module, class or function name.
+              </p>
+          </div>
+          <script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li><a href="index.html">Liberated Pixel Cup styleguide v documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+      <p>
+        Documentation and assets dual licensed under
+        <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC
+          BY-SA 3.0</a>
+        and <a href="http://www.gnu.org/licenses/gpl-3.0.html">GNU GPL
+          version 3</a> or later.
+        <br/>
+        Code released under <a href="http://www.gnu.org/licenses/gpl-3.0.html">GNU GPL
+          version 3</a> or later.
+        <a href="https://gitorious.org/liberated-pixel-cup/">Source available</a>.
+      </p>
+    </div>
+  </body>
+</html>

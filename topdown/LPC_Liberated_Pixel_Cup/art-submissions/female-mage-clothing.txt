@@ -1,0 +1,3 @@
+Author: Luke Mehl
+
+Mage clothing set for females covering all base animations.  Color/material variations for robes, slippers, belts, belt buckles, necklaces, hair, and tiaras, all on separate layers.  GIMP source file, combined female base image, and example characters included.
