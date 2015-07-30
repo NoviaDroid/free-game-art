@@ -1,0 +1,3 @@
+author: Xenodora
+License: CC-BY 3.0, CC-BY-SA, GPL 3.0
+origin: http://opengameart.org/content/lpc-style-wood-bridges-and-steel-flooring

@@ -1,0 +1,9 @@
+author: Connor Sherson "Sir Spummington" (cppsheron@gmail.com)
+license: CC-BY-SA 3.0, GPL 3.0
+origin: http://opengameart.org/content/interior-tiles
+
+
+Some interior tiles I made for the LPC (Liberated Pixel Cup) art jam phase. I didn't end up submitting anything for that phase, but have the art anyway!
+
+Attribution Instructions: 
+Attribute to Connor Sherson (cppsheron@gmail.com)

@@ -1,0 +1,12 @@
+author: Jannax
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/home-objects
+
+These are objects from a game I was working on long ago, however it has since been abandoned and I would hate to see these go to waste. They are already set up in 32x32 spaces with a transparent background.
+
+ 
+
+I've gone ahead and uploaded an alternate set that I did a few months ago that includes more detail, new objects, and a revised palette. I'll leave both versions up, so that you may choose which ever you'd prefer.
+
+Attribution Instructions: 
+Feel free to use however you want. Credit isn't necessary but much appreciated. If you do credit, simply credit me as Janna, thanks!

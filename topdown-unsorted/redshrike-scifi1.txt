@@ -1,0 +1,16 @@
+author: Stephen Challener "Redshrike"
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/scifi-creature-tileset-mini-32x32-scifi-creature-icons
+
+Hello everyone!  Some of you may remember a game from Gamesdomain's old Gamesdomain castle, a certain strategy game called Cyberwars.  It was a sci-fi themed Chaos clone (made originally by Jagex).  Anyway, Yahoo bought and trashed Gamesdomain, in the process destroying Cyberwars.  So a guy made a clone (called "Cyberbattles"), for which I made a few sprites (which were ugly), and then later went back and made an entire creature set for (which were somewhat less ugly).  That site (www.duelboard.com) has moved on to other games, though, and Cyberbattles is mostly dead.  So yeah, these were kinda rotting, and I've always been meaning to go back and revamp them, and I recently got the idea of putting them here when I did.
+
+So I did, and I did.  It took less time than I thought it would, really.
+
+ 
+
+Or, if you don't want to read all that boring text, these are 32x32 minimally animated icons suitable for a chaos clone or similar game.  they are made to be viewed on the black background, so they might need some editing to look good on a different background.  Sorry about that, but I didn't have time to revamp them in two ways.  Sorry if the animation is a bit buggy.  Just tell me here, and I'll try and fix it.
+
+Note: for credit for CC-by, in addition to crediting me please link back to Opengameart.org.
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), hosted by OpenGameArt.org

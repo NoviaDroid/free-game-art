@@ -1,0 +1,3 @@
+author: Xenodora, Lanea Zimmerman "Sharm"
+license: CC-BY 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-style-well

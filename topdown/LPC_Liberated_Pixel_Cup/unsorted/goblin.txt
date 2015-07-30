@@ -1,0 +1,9 @@
+author: Stephen Challener "Redshrike", William.Thompsonj
+license: OGA-BY 3.0, CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-goblin
+
+
+A goblin made in LPC style by Redshrike. More parts (shield, helmet, etc.) coming soon.
+
+Copyright/Attribution Notice: 
+Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage.

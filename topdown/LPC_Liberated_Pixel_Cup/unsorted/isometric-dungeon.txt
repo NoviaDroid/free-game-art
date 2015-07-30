@@ -1,0 +1,3 @@
+author: Lanea Zimmerman, Xenodora
+license: CC-BY-SA 3.0, GPL 3.0
+origin: http://opengameart.org/content/angled-tiles-for-lpcs-cement-brackish-and-dungeon-tilesets

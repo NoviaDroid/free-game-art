@@ -1,0 +1,10 @@
+author: Lanea Zimmerman "Sharm", Curt
+license: CC-BY 3.0
+origin: http://opengameart.org/content/lpc-animated-water-and-fire
+
+Sharm did all the art... I just made them move....
+
+(the torch is from Crawl-CC0).
+
+Attribution Instructions: 
+Sharm and Curt this web address

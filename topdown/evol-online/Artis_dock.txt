@@ -1,0 +1,6 @@
+Author: Reid
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/dock-tileset
+
+A tileset that I've been working on this month, it will be added on the next release of Evol Online. (evolonline.org)
+

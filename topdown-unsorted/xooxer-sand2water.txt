@@ -1,0 +1,6 @@
+author: Xooxer (http://www.byond.com/members/xooxer)
+license: MIT
+source: http://www.byond.com/forum/?post=258294#7042
+        http://opengameart.org/content/xooxers-grass-2-ground-tileset
+
+I know I said I'd wait to release these, but I just finished some animated water and I thought I'd share. I probably still need to tweak the colors, and I'm sure these tiles don't exactly line up (so you'll have to cut and paste them manually until I fix that). Here's a little gif of the animated water in action:

@@ -1,0 +1,17 @@
+author: Stephen Challener "Redshrike", William.Thompsonj
+license: OGA-BY 3.0, CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-spider
+
+
+This is a commissioned work by Redshrike. Included are 11 sprite sheets setup similar to the other LPC assets (up, left, bottm, right). All variations are of the same spider with different markings and color coats. There are 3 animations included, walking, attacking, and dying (only 1 direction dying).
+
+Frame 1: Standing
+
+Frames 1-4: Attacking
+
+Frames 5-10: Walking
+
+Bottom Row: Dying
+
+Attribution Instructions: 
+Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage.

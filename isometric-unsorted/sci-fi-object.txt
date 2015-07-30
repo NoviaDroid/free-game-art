@@ -1,0 +1,8 @@
+author: Jannax
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/sci-fi-object-set
+
+These are just some random objects I made so I had something to work on. They are already set up into 32x32 spaces with a transparent background.
+
+Attribution Instructions: 
+Feel free to use however you want. Credit isn't necessary but much appreciated. If you do credit, simply credit me as Janna, thanks!

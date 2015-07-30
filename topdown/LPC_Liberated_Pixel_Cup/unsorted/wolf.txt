@@ -1,0 +1,10 @@
+author: Stephen Challener "Redshrike", William.Thompsonj
+license: OGA-BY 3.0, CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-wolf-animation
+
+This is a commissioned work made by Redshrike. This is an LPC style wolf animation. It includes walking, running, biting, howling, and dying animations. There are a total of 6 colors to choose from, all the same setup.
+
+Adobe Photoshop PSD file by Redshrike added in case anyone wants to mess with making a modified version.
+
+Attribution Instructions: 
+Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link back to this page or the OGA homepage.

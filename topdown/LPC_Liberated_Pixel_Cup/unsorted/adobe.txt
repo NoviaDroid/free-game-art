@@ -1,0 +1,10 @@
+author: Lanea Zimmerman "Sharm", William.Thompsonj, bluecarrot16
+license: OGA-BY 3.0, CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-adobe-town-set
+        http://opengameart.org/content/lpc-adobe-building-set
+
+
+I decided to extend Sharm/William.Thompsonj's LPC "Adobe Building set" (http://opengameart.org/content/lpc-adobe-building-set) with some additional tiles for archways, stairs, benches, awnings, and columns, to make it easier to make desert town scenes. I may extend with more tiles; let me know if you have ideas!
+
+Copyright/Attribution Notice: 
+"Adobe Town Set" Artist: bluecarrot16 License: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0 Please link to page on opengameart. Based on "[LPC] Adobe Building Set" Artist: Sharm (Lanea Zimmerman) Contributor: William.Thompsonj (William Thompson) License: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0 http://opengameart.org/content/lpc-adobe-building-set

@@ -1,0 +1,12 @@
+author: Daniel Eddeland, William.Thompsonj
+license: CC-BY-SA 3.0, GPL 3.0
+origin: http://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+This is based on the LPC base assets and on the sand contributed by daneeklu, found here: http://opengameart.org/content/lpc-farming-tilesets-magic-animations-and...
+
+I made this alternate color scheme because the sand contributed by daneeklu was way more yellow than I wanted. I tried to pick closer to real sand colors, hopefully it looks reasonable enough to use as-is. If it's not quite what you want feel free to drop a comment and I'll do my best to help out.
+
+Added sand with cold water, deep water, ice, and rock.
+
+Attribution Instructions: 
+Please attribute William.Thompsonj, Daniel Eddeland, and link back to this page.

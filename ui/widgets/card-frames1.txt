@@ -1,0 +1,3 @@
+author: Mumu
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/40x56-card-frames-without-the-art

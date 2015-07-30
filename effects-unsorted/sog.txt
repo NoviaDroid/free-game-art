@@ -1,0 +1,3 @@
+author: Sven Stamm
+license: CC-BY-SA 3.0
+source: http://opengameart.org/content/elemental-absorbtion-animation

@@ -1,0 +1,15 @@
+author: Stephen Challener (Redshrike)
+license: CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-beetle
+
+
+Just a little beetle for the LPC.  It's all ready for formatting, but I honestly didn't want to finish it.  So yeah!  Enjoy.  There might be more monsters coming.  Note that it has walking animations plus attacking (two rightmost frames on each row).
+
+ 
+
+edit: added a hole from which they might spawn per request.
+
+Attribution Instructions: 
+Stephen "Redshrike" Challener, plus a link back to opengameart.org
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), hosted by OpenGameArt.org

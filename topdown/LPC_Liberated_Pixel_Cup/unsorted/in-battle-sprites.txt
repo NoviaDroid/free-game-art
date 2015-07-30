@@ -1,0 +1,25 @@
+author: Stephen Challener (Redshrike), Matthew Nash, Tunicate, Ben "Cookiez" Potter, Charles Gabriel
+license: CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-in-battle-rpg-sprites
+
+
+While looking through the LPC submissions, I noticed one entry in particular by Matthew Nash, which contained three of the LPC base asset monsters rendered as in-battle RPG enemy sprites.  I liked the look and the idea, and decided to expand on them by doing similar ones for a number of the other base assets as well as some of the other submitted monsters.
+
+Credits as follows:
+
+Bottom three sprites:  worm, eyeball and bee are all done exclusively by Matthew Nash based on designs by Charles Gabriel.  They are included currently for completeness' sake since the assets are not formally in the OGA archive yet.
+
+The Robot (top row, leftmost), the "Blobbert" (Middle row, middle monster) and the enemy anenomies (second row from the top) were drawn by me, based on sprites by Tunicate.
+
+The bat (top row, center monster), ghost (top row rightmost monster), slime (middle row, leftmost monster) and snake (second row from bottom, leftmost monster) were drawn by me based on sprites by Charles Gabriel.
+
+The Tuba turtle (second row from bottom, middle monster) and the Gnu Mage (second row from bottom rightmost monster) were drawn by me based on sprites by Ben Potter (Cookiez).
+
+The beetle was drawn by me based on a sprite by me.
+
+ 
+
+Anyway, if you have more needs/requests, feel free to post them in a comment or whatever.  Thanks to all the artists whose work made this possible.
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), Matthew Nash, Tunicate, Ben "Cookiez" Potter (with a link to this page: http://cookiez999.deviantart.com/), Charles Gabriel, as noted in description. Also include a link to OpenGameArt.org

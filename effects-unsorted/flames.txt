@@ -1,0 +1,14 @@
+author: Lanea Zimmerman "Sharm", William.Thompsonj
+license: CC-BY-3.0, GPL3, GPL2
+origin: http://opengameart.org/content/lpc-flames
+
+Flames extracted from Sharm's LPC Fireplace
+
+http://opengameart.org/content/lpc-fireplace
+
+Packed as 16x24 pixel frames for easy indexing. They are not finely adjusted to always sit on the same base but I didn't want to mess with it endlessly. They're reasonably close though. Figured it was useful enough as-is if anyone was interested.
+
+Archive includes flame sheet, individual frames, and animated gif. All images have transparent background.
+
+Attribution Instructions: 
+Attribute Sharm as graphic artist. If you want to link my profile you can.

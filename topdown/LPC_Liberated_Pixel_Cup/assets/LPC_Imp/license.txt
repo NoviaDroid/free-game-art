@@ -1,0 +1,14 @@
+author: Stephen Challener "Redshrike", William.Thompsonj
+license: OGA-BY 3.0, CC-BY 3.0, GPL 3.0, GPL 2.0
+origin: http://opengameart.org/content/lpc-imp-2
+        http://opengameart.org/content/lpc-imp
+
+
+I forgot the death animation for the original imp I posted so I've included the full red imp set along with the newly recolored green and blue imps. I arranged all the frames in the same order as the other LPC assets (top, left, bottom, right) for all the sprite sheets and I've tried to normalize all the outlines so everything has consistent color claws, weapons, and shields.
+
+Included are 3 full sets of imp animations (walking, attacking, and dying for red, green, and blue). I don't know why I didn't think to do this earlier but better late than never!
+
+Please leave a comment if you have one.
+
+Attribution Instructions: 
+Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage.

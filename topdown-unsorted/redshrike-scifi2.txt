@@ -1,0 +1,17 @@
+author: Stephen Challener "Redshrike", PancInteractive
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/3x-updated-32x32-scifi-roguelike-enemies
+        http://opengameart.org/content/roguelike-sprites-redshrike-mods
+
+I've been meaning to revamp my older set of scifi creatures (http://opengameart.org/content/scifi-creature-tileset-mini-32x32-scifi-creature-icons) as roguelike tiles for a long time.  With the jam coming up, I thought I'd rush out part of that because I don't know when I will otherwise.  These are 14 revamped critters.  No animation yet, that will be much more time consuming to update.  But they shoudl be fine for static tiles in a sci-fi themed 32x32 roguelike.  I may put more up if there is interest, but I have other things pressing.
+
+ 
+
+Edit1: The very cool Panc Software made an expansion of this with some animations! http://opengameart.org/content/roguelike-sprites-redshrike-mods
+
+Edit2: I've added some more and updated some of them as well!
+
+Edit3: more stuff!  3 extra units!
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), hosted by OpenGameArt.org

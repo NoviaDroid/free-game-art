@@ -1,0 +1,12 @@
+author: Xooxer (http://www.byond.com/members/xooxer)
+license: CC0 (Public Domain)
+source: http://www.byond.com/forum/?post=258292
+
+
+Some anon had recently uploaded some pixel art and licensed it under CC0. He explained that these pieces of art had been created for his project and posted to a free resource forum.
+
+This seemed suspicious to me, so i did some research work and found the forum he had talked about. Unfortunately, it turned out that all these resources anon had uploaded to OGA did not contain any licensing information other than "you can use this however you want". That's why these had to be unpublished.
+
+On my hunt for the original forum entries, i found only two pieces of art with a proper license:
+
+One is Public Domain, which is the one I'm uploading here, and another one is licensed under the MIT-License, which i won't upload because MIT-License is not accepted on OGA.
