@@ -1,0 +1,18 @@
+Author:  Henrique Lazarini '7Soul' 'Ails' (ails.deviantart.com 7soul1.deviantart.com/)
+License: CC-BY-SA 3.0
+Origin: http://7soul1.deviantart.com/art/Spaceship-Game-Sprites-385923888
+        http://7soul1.deviantart.com/art/Spaceship-Game-Tileset-385921857
+
+
+Made this for a game for the BaconJam
+https://bacongamejam.org/jams/bacongamejam-05/35/
+https://github.com/jstoone/LightsOut
+
+This is 100% free for commercial or non-commercial works.
+
+---
+
+Attribution-ShareAlike 
+CC BY-SA
+
+This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.
