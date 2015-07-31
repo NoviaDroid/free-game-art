@@ -1,0 +1,4 @@
+based on Blasphemer, so should be BSD
+
+discussion regarding license:
+http://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/4/

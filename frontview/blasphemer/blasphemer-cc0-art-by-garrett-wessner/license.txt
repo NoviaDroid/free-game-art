@@ -1,0 +1,9 @@
+author: Garrett Wessner (Gwes)
+origin: http://opengameart.org/users/gwes
+license: Public Domain (CC0)
+
+Some dark fantasy themed item sprites intended for a sprite-based FPS.  I initially made them for a predecessor project to Blasphemer that was never announced or released; some of them made their way into Blasphemer in modified form but others had no place to fit there.
+
+This is for the most part OLD work and probably not up to par with what I can do nowadays, but hopefully some of these will be useful to someone even if they need a touch of tweaking.
+
+I'm offering them up as CC0, so do an ye will.
