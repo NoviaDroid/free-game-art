@@ -1,0 +1,10 @@
+Author: Leonard Pabin, Saphy
+License: GPL2
+Origin: http://opengameart.org/content/the-mana-worldforest-tileset
+
+32x32 tileset
+
+I worked with a talented artist with the screen name Saphy on this tileset. This was also one of the first full tilesets I've ever collaborated on. (so It might have a few issues, I'll try and fix it up eventually)
+
+Its inspired by Daniel Cook's work and is not true pixel art
+
