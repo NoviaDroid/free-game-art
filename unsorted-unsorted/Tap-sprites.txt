@@ -1,0 +1,17 @@
+Author: Tap
+License: CC0 (Public Domain)
+Source: http://opengameart.org/content/multi-part-sprites-and-other-objects
+
+
+Very old sprites, probably older than 2006.  I just gathered them all up then.  Anyway, all of these art remains unused to this day.  The original plan was to make a side-scrolling beat-'em-up RPG.  You can credit me if you like, but I do not require it.  These sprites are public domain, meaning anyone and everyone can use them for whatever they want.
+
+Tools used: MSPaint (Windows XP).
+
+Loosely based on the Rurouni Kenshin chibi animations from 1998.
+
+Example game (very old): http://games.mochiads.com/c/g/fj-ball/fjball.swf
+
+The game is NOT under the same license, and the sprite is a variation of my original red-shirt sprite with different clothes, so I don't mind sharing that sprite (all pieces of it) as public domain if I can find it.  The game uses Flash's movieclip container to animate each piece within a larger container, which holds the x/y neutral position data.  I recommend you use Spriter instead if you can.  It offers an easier workflow.
+
+Attribution Instructions: 
+If you want to credit me, credit me as Josh Maines, but I do not require credit. I am sharing this art in hopes that it gets used somewhere. If you use it for anything, let me know. Thanks.

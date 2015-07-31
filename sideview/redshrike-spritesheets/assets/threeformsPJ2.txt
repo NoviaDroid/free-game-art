@@ -1,0 +1,12 @@
+author: Stephen Challener "Redshrike"
+license: OGA-BY 3.0, CC-BY 3.0
+source: http://opengameart.org/content/3-form-rpg-boss-harlequin-epicycle
+
+Hey everyone! I made this boss for a challenge over at Pixeljoint, in the same style as the rest of my rpg enemy set.  He has three forms, starting off as a robed and masked creature presenting a vaguely humanoid front, and ending up being revealed as a decidedly non-human critter.  Having multiple arms with weapons is a bit of a trope/cop-out, but I didn't have any other ideas.
+
+Note that my normal policy is not to do boss art for this set, for a few reasons.  First, most people are going to be more concerned about having major characters like bosses be unique than normal random encounters.  Second, they're a lot of work for something that will be less useful anyway.  But I figured I'd post this anyway, since it turned out pretty well and has no other destiny atm.
+
+Credit to my hella bro for the name.  He always delivers.
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), hosted by OpenGameArt.org

@@ -1,0 +1,17 @@
+author: DualR
+license: CC-BY 3.0, CC-BY-SA 3.0, GPL2, GPL3
+source: http://opengameart.org/content/16x16-fantasy-pixel-art-vehicles
+
+This is an official OGA commission, by OGA user DualR.  It contains a number of fantasy vehicles, including:
+
+A canoe
+A ship
+An airship
+A cart
+A buggy
+A covered wagon
+A horse and a donkey, for pulling the cart, buggy, and covered wagon
+If you use this, you must include a link to http://opengameart.org and credit DualR in your attribution.
+
+Copyright/Attribution Notice: 
+Art by DualR. Commissioned by OpenGameArt.org (http://opengameart.org)

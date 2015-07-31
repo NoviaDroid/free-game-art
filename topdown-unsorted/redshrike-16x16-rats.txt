@@ -1,0 +1,18 @@
+author: Stephen Challener "Redshrike"
+license: CC-BY 3.0
+source: http://opengameart.org/content/rat-and-rat-king-overworld-antifarea-style
+
+Hello everyone,
+
+This is, pretty simply, an overworld rat (here: http://opengameart.org/content/10-fantasy-rpg-enemies) and rat king (here: http://opengameart.org/content/rat-king-antifarea-style-rpg-enemy).  They're meant to be compatible with Antifarea's 16x18 rpg sprittles.  Fun stuff, working at this size, especially the animations.
+
+ 
+
+If you use this, be sure to link back to this site, opengameart.org (this is part of the attribution for cc-by).  Also, contacting me would be awesome, because I'd really love to see what you do.
+
+ 
+
+This work was commissioned by Open Game Art.
+
+Copyright/Attribution Notice: 
+Art by Redshrike, for OpenGameArt.org (http://opengameart.org)

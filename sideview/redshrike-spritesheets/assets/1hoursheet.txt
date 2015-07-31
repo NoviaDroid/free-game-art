@@ -1,0 +1,8 @@
+author: Stephen Challener "Redshrike"
+license: CC-BY 3.0, CC-BY-SA 3.0, OGA-BY 3.0, GPL2, GPL3
+source: http://opengameart.org/content/1-hour-lpc-enemy
+
+I haven't been able to post much art here recently--I've been pretty busy with my studies and with commissions.  I really liked this challenge--a few years back there was a 15 minute challenge, and this seemed like a good way to gauge how far I'd come with quick composition.  I've been wanting to do more LPC stuff, so doing an LPC-styled monster seemed like a good idea.  I managed to get a flying animation in but that was it.  I may come back and do some more later.
+
+Attribution Instructions: 
+Stephen "Redshrike" Challener, and a link back to OpenGameArt.org

@@ -1,0 +1,7 @@
+author: MrBeast
+license: CC-BY 3.0
+source: http://opengameart.org/content/16x16-item-icons
+
+16x16 icons for items.
+
+Supposed to be displayed in text before the name of the item in inventory screens.

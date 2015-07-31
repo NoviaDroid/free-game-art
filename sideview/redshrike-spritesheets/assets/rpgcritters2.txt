@@ -1,0 +1,8 @@
+author: Stephen Challener "Redshrike"
+license: OGA-BY 3.0, CC-BY 3.0
+source: http://opengameart.org/content/10-basic-rpg-enemies
+
+This is a set of 10 basic rpg enemies (of course), done in a style similar to final fantasy 6's.  Feel free to use these any way you want, provided that you give credit.  If you do use them, I would very much appreciate you dropping me a line here because I'm going to want to see it.
+
+Copyright/Attribution Notice: 
+Stephen "Redshrike" Challener, hosted by OpenGameArt.org

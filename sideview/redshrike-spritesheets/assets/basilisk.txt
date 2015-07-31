@@ -1,0 +1,8 @@
+author: Stephen Challener "Redshrike", Blarumyrran
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/rpg-enemy-basilisk-ff6-ish-style
+
+
+Hello everyone.  Here's a quick piece which I doubt will fit into any larger collections I upload later, so I figured I'd just upload it alone.  When I first saw Blarumyrran's Basilisk: http://opengameart.org/content/heroesofmightandmagic2-style-basilisk , I remember thinking "hey, that looks great," followed shortly by "hey, that's almost in ff6 style."  And now I've finally gotten around to doing the conversion.  The sprite was a lot of fun to work with (especially the texture).
+
+This version should fit with my other RPG enemy collection.

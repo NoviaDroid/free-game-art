@@ -1,0 +1,12 @@
+author: Stephen Challener "Redshrike", Open Surge team
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/32x32-and-16x16-rpg-tiles-forest-and-some-interior-tiles
+
+Hello once again!  Here we have a 32x32 forest tileset with some grass/undergrowth, a tree, a forest, a cliffside and some various odds and ends.  It comes in both a dark version and, by popular IRC demand, a somewhat lightened version.  Feel free to make your own coloration!  Also included are a few interior tiles I did as a test.
+
+These tiles were comissioned by Gaurav Munjal for his awesome HTML5 Canvas Old School RPG, which you can see at http://gaurav0.github.com/Old-School-RPG-Map.I definitely suggest you check it out.
+
+As part of CC-By, please link back to this page.
+
+Copyright/Attribution Notice: 
+Stephen Challener and the Open Surge team ( http://opensnc.sourceforge.net), hosted by OpenGameArt.org

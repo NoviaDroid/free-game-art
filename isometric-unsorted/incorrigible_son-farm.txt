@@ -1,0 +1,4 @@
+author: incorrigible_son
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/farm-spritesheet
+        http://opengameart.org/content/spritesheet-of-peasant-house

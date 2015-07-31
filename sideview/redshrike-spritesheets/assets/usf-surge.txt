@@ -1,0 +1,16 @@
+author: Stephen Challener "Redshrike"
+license: OGA-BY 3.0, CC-BY 3.0
+source: http://opengameart.org/content/surge-of-opensurge-for-ultimate-smash-friends
+
+After much IRC hubbub and many an hour of grueling work, it's finally here:  Ultimate Smash Friends' first open-source game crossover!  This is Surge the rabbit, the eponymous protagonist of the OpenSurge project.  He is orange, he wears light-up shoes, he has powers of electricity and enough character appeal to give him an edge in any fight.  Big thanks to the OpenSurge team for their permission and participation in giving constant and helpful feedback, and to all the helpful folk on OGA's IRC.
+
+ 
+
+As part of CC-By, be sure to link both to this site at opengameart.org, and to the OpenSurge project at http://opensnc.sourceforge.net.  Also, contacting me would be awesome, because I'd really love to see what you do.
+
+ 
+
+This work was commissioned by Open Game Art.
+
+Copyright/Attribution Notice: 
+Art by Stephen "Redshrike" Challener and the OpenSurge Team ( http://opensnc.sourceforge.net). Commissioned by OpenGameArt.org (http://opengameart.org)

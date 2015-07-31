@@ -1,7 +1,6 @@
-Authors: Stephen Challener (Redshrike), Agustín Balmer
-License: Public Domain
+Authors: Stephen Challener (Redshrike), Agustin Balmer
+License: OGA-BY 3.0, CC-BY 3.0
 Origin: http://opengameart.org/content/bosses-and-monsters-spritesheets-ars-notoria
-        http://opengameart.org/content/3-form-rpg-boss-harlequin-epicycle
 
 Spritesheets made with modified sprites from Stephen Challener (Redshrike). Color palette DB32.
 

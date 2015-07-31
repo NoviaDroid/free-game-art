@@ -1,0 +1,8 @@
+author: Daniel Siegmund
+license: CC-BY, CC-BY-SA, GPL3, GPL2
+source: http://opengameart.org/content/16x16-pixel-art-dungeon-wall-and-cobblestone-floor-tiles
+
+A commission for OpenGameArt by Daniel Siegmund.  Wall tiles are a a modification to the wall tiles in the 16x16 indoor tileset by Redshrike.
+
+Copyright/Attribution Notice: 
+Art by Daniel Siegmund and commissioned by OpenGameArt.org (http://opengameart.org)

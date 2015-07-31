@@ -1,0 +1,21 @@
+author: Stephen Challener "Redshrike", Blarumyrran, LordNeo, Mumu
+license: OGA-BY 3.0, CC-BY 3.0
+source: http://opengameart.org/content/6-more-rpg-enemies
+
+As a follow-up to the set of dragons, here are some miscellaneous rpg enemy assets which I've put together over the past six months or so, bits of this or that.  Some of them might be expanded further.
+
+Specifically: the orc may be expanded into a broader set, as a sort of extension of the goblin set here:  opengameart.org/content/10-basic-rpg-enemies-the-goblin-supplement
+
+The tentacled facey horrorterrors have a blue friend, available here: http://opengameart.org/content/more-rpg-enemies
+
+The trolls and magician are lightly edited from sprites by Blarumyrran to enhance style compatibility.  The originals are available here: http://opengameart.org/content/trolls http://opengameart.org/content/wizard-0
+
+The orc was edited/drawn over an original sprite by LordNeo, available here: http://opengameart.org/content/orc-static-64x64
+
+Fel orc is by Mumu (http://opengameart.org/users/mumu)
+ 
+
+Part of the ongoing rpg enemy set, available here: opengameart.org/content/sideview-pixel-art-rpg-enemy-sprites
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), Blarumyrran and LordNeo, hosted by OpenGameArt.org

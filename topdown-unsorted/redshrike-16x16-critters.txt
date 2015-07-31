@@ -1,0 +1,16 @@
+author: Stephen Challener "Redshrike"
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/a-load-of-overworld-34-rpg-sprites
+
+OK, here's my story.  I made these for a game, but things didn't pan out, so the graphics are here now.
+
+I know these may not be super useful in their present form--they can probably be adapted to fit some other styles with relative ease.  Please drop me a line if you use them, because I'd love to see what you do!
+
+As part of CC-By, please include a link back to opengameart.org in your credits.
+
+ 
+
+NOTE:  you can see an updated version here: http://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), hosted by OpenGameArt.org

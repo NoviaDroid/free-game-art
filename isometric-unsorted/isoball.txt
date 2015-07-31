@@ -1,0 +1,5 @@
+Author: gfxplace
+License: CC0 (Public Domain)
+Source: http://opengameart.org/content/isoball-project-tiles
+
+Isoball Tiles Gamepack. Isometric tiles from an old personal project never released.

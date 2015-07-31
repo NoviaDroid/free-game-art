@@ -1,0 +1,14 @@
+author: Stephen Challener "Redshrike"
+license: OGA-BY 3.0, CC-BY 3.0
+source: http://opengameart.org/content/leocephas-ff6-ish-style-rpg-miniboss
+
+I was reading about the Roman Mysteries of Mithras (a cult centered around the god Mithras), and one of their major symbols was the Leontocephaline, a lion-headed man.  It seemed like exactly the sort of thing that Square would misappropriate and mangle for a monster and/or miniboss (in the tradition of Gilgamesh and Enkidu, but not quite as awesome).  Anyway, Leocephas is a general who serves (big) bad Mithras (forthcoming?) out of honest loyalty to the man who saved his people.  He is a competent leader, and a formidable warrior in his own right.  Or not.  It's your game.
+
+Please, when you give credit for CC-By, be sure to include a link back to Open Game Art in addition to the other information.
+
+ 
+
+edit:  added an updated version.  The old version is included in the main file.
+
+Copyright/Attribution Notice: 
+Stephen Challener(Redshrike), hosted by OpenGameArt.org

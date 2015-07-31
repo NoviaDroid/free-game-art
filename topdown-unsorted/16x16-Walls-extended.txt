@@ -1,0 +1,10 @@
+author: Daniel Siegmund, InanZen
+license: CC-BY
+source: http://opengameart.org/content/16x16-wall-set
+
+This is a modification of 16x16 wall set by Daniel Siegmund
+
+I have added a few tiles to make it complete and i've added a few more variety of basic wall tile. 
+
+Attribution Instructions: 
+Link to http://opengameart.org/

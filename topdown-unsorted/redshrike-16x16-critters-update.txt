@@ -1,0 +1,10 @@
+author: Stephen Challener "Redshrike"
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
+
+A few years back I was comissioned to make some overworld rpg enemies.  Alas, due to shenanigans I didn't get paid, and ended up posting them here http://opengameart.org/content/a-load-of-overworld-34-rpg-sprites .  I have recently gone back and made some updates, resizing to be more compatible with 16x16 tiles (and specifically CharlesGabriel's 16x24 outfits), reduced the color count and generally made them look better.  My goal was to make these more compatible with our other assets and thus generally more useful.
+
+As part of credit under CC-By, in addition to crediting me (Stephen "Redshrike" Challener), please include a link back to opengameart.org in your credits.
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), hosted by OpenGameArt.org

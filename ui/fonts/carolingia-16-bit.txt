@@ -1,0 +1,17 @@
+author: Cartisticdude
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/16-bit-gilded-bitmap-font
+
+A medieval-inspired bitmap font, average character dimension: 11 pixels wide by 14 pixels high (some variation in this standard for special cases or ornamentation).
+
+ 
+
+Includes the following characters:
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ.,!?;:'1234567890
+
+ 
+
+ 
+
+I'm open to feedback on this, BTW... I'd love to hear any suggestions or comments. :)

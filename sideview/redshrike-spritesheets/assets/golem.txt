@@ -1,0 +1,15 @@
+author: Stephen Challener "Redshrike", Mumu, Sharm
+license: OGA-BY 3.0, CC-BY 3.0
+source: http://opengameart.org/content/ice-golem-rpg-enemy-sprite
+
+Hey all,
+
+This is my entry to the "Eternal Ice" challenge.  I had more ambitious plans for a fuller set of ice enemies, but...first week of school, etc etc et al. misc bbq.
+
+I may come back at some point and add more variations: various gem recolors/reworks, stone, etc.  Or maybe someone else will?  Who knows.
+
+Fire and Dark variations are by Mumu
+Ice variation is by artisticdude
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike), hosted by OpenGameArt.org

@@ -1,0 +1,12 @@
+author: Stephen Challener "Redshrike"
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/rpg-indoor-tileset-expansion-1
+
+OK, I mentioned when I first posted my indoor tileset (http://opengameart.org/content/16x16-indoor-rpg-tileset-the-baseline) I mentioned that I would like to expand it some, add some bells, whistles, etc.  This is a step in that direction.  Included are new, updated extra-tall walls, wall hangings, another rug, a new table.
+
+PLUS: a bunch of new accessories: plates, books, bottles, potted plants, a jug, etc, which are adapted from Jetrel's awesome item set over here: http://opengameart.org/content/rpg-item-set .  Essentially, I have resized them and some a few minor modifications to make them fit stylistically.  If there's more things you'd like to see, just drop a post in the comments.
+
+As part of credit under CC-By, in addition to crediting me (Stephen "Redshrike" Challener) and Jetrel, please include a link back to Opengameart.org.
+
+Copyright/Attribution Notice: 
+Stephen Challener (Redshrike) and Jetrel, hosted by OpenGameArt.org

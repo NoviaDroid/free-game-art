@@ -1,0 +1,30 @@
+author: Stephen Challener "Redshrike"
+license: CC-BY 3.0, OGA-BY 3.0
+source: http://opengameart.org/content/16x16-indoor-rpg-tileset-the-baseline
+
+Hello everyone!  This was commissioned (quite a while ago) by Bartk for his jrpg project.  It's a rather basic indoor tileset built for a 16x16 grid.  I think it covers the basics pretty well, but of course it could use more stuff.  If you see something missing that you'd like added, please put it in a comment!  I'm hoping to put out an expansion pack at some point.
+
+Ideas for the expansion so far:
+
+stools/mugs for bar
+
+potted plants
+
+wall lamp
+
+books to lay on tables
+
+pots and pans
+
+Note that the characters in the preview are Antifarea's sweet 16x16 dudes, who seem to mesh pretty well with this.
+
+ 
+
+If you use this, please drop me a line!  It's not required or anything, but I'd love to see it!
+
+ 
+
+Edit: added the relevant tiles from http://opengameart.org/content/32x32-and-16x16-rpg-tiles-forest-and-some...
+
+Copyright/Attribution Notice: 
+Art by Stephen Challener (Redshrike). Commissioned by OpenGameArt.org (http://opengameart.org)

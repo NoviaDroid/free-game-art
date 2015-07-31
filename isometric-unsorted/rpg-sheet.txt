@@ -1,0 +1,9 @@
+Author: artisticdude
+License: CC0 (Public Domain)
+Source: http://opengameart.org/content/rpg-sheet
+
+An assortment of RPG tiles, attack icons, and cursors. I've also included the base for a wall tile set, and I plan on adding a finished wall tileset sometime in the future. There are fifteen ground tiles (each of which should tile seamlessly), four attack icons (each of which is included in both 32x32 and the original base 70x70 sizes), and two cursors. Also included is a halo image, which could be used as a character halo, a missile frame, etc.
+
+ 
+
+Created in Adobe Photoshop Elements 8 using a combination of pixel art, brush art, photo manipulation, and plenty of time.

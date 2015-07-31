@@ -1,0 +1,7 @@
+author: Blarumyrran
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/treasure-chests-32x32-and-16x16
+
+Treasure chests, 32x32 and 16x16, with gold & gems for fillings.
+
+4 chests, open & closed frame for each, 5 fillings.
