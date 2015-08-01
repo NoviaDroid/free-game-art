@@ -1,0 +1,5 @@
+author: Deerman
+license: CC-BY 3.0
+origin: http://opengameart.org/content/book-animation
+
+A 2d sprite animation of a generic book. Contains closed, opening and pages turning finishing in closed reverse

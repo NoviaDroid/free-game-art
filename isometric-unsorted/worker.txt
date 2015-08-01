@@ -1,0 +1,10 @@
+author: domsson
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/pixel-worker-sprite-fukushima
+
+I crafted these pixel workers for a game that was never finished. There are walking, dying and "working on something" poses / animations.
+
+The sprites are very basic, I guess they could use some improvement. But they might be a nice start as there are 4 sets (default, with mask, with hat, with hat&mask) and all of them are drawn for all 4 directions. You'd have to isolate the different sprites manually, as they don't ship layered but on a simple PNG. Also, you can recolor them easily.
+
+Copyright/Attribution Notice: 
+Use in any way you want. If you do, please let me know about it in the comments. Thanks!

@@ -1,0 +1,5 @@
+author: Deerman
+license: CC-BY 3.0
+origin: http://opengameart.org/content/heart-animation
+
+3 frame animation of an anotomically correct heart beating

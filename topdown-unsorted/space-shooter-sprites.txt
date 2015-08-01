@@ -1,0 +1,12 @@
+author: Bert-o-Naught
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/space-shooter-top-down-2d-pixel-art
+
+Simple Top down Space shooter assets I created to dip my toes in pixel art. You can add the assets to the game tutorial found at - http://www.html5rocks.com/en/tutorials/canvas/notearsgame/
+
+That is not my tutorial, but just helpful :)
+
+There's only 2 assets in this- 
+1 x Futuristic alien destroying space vessle of Doom
+1 x Tenticaled, brain-popping, slime-beast from the depths of a blackhole
+

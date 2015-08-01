@@ -1,0 +1,5 @@
+author: Miguel Duarte
+license: CC-BY-SA 3.0, GPL2, GPL3
+source: http://opengameart.org/content/big-headed-sprite
+
+A base of possibly a vampire with a big head. Includes: Running state, Punching state (side view only), Jump(side view, Idle(side view), Standing, and a Transformation state (front only).
