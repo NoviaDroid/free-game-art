@@ -1,0 +1,9 @@
+author: chipmunk
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/solomons-key
+
+A tileset obviously inspired from Solomon's Key in 16 colors. Give credit if used.
+
+512 color palette used.
+
+Edit: Added some tiles with shading to give some depth to the image.

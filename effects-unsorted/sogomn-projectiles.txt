@@ -1,0 +1,9 @@
+author: Hannes Sogomn
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/rock-projectile
+        http://opengameart.org/content/water-blast
+        http://opengameart.org/content/simple-fireball
+        http://opengameart.org/content/falling-leaf
+
+Copyright/Attribution Notice: 
+Do whatever you want with it. Credit would be nice, though.

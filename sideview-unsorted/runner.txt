@@ -1,0 +1,8 @@
+author: chipmunk
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/runner-sprite
+
+A simple sprite for a platform game.
+
+Copyright/Attribution Notice: 
+Give credit if used.

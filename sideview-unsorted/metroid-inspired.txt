@@ -1,0 +1,9 @@
+author: chipmunk
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/metroid-like
+
+A Metroid like tileset and character i did in 16 colors inspired from Metroid and various mockups. A credit would be nice if you use them.
+
+ 
+
+Dawnbringer's 16 palette used.

@@ -1,0 +1,8 @@
+author: Gokhan Solak "gufosowa"
+license: CC-BY 3.0
+origin: http://opengameart.org/content/pixel-book-animated
+
+64x64 book, page flip animation in 8 frames. 
+
+Copyright/Attribution Notice: 
+"Gokhan Solak"

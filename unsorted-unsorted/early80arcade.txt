@@ -1,0 +1,5 @@
+Author: Ryan Carson (refreshgames)
+License: CC0 (Public Domain)
+Source: http://opengameart.org/content/early-80s-arcade-pixel-art-dungeonsslimes-walls-power-ups-etc
+
+A little tileset for a game jam. Sprites are limited to 3 colours + transparency from a tiny 8 colour arcade palette. Hope this proves useful for someone out there :P

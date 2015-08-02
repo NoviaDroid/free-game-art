@@ -1,0 +1,8 @@
+author: chipmunk
+license: OGA-BY 3.0
+origin: http://opengameart.org/content/giana-sisters-mario-tileset
+
+A tileset for a Mario-Giana sisters like game. No 16 colors this time, i wanted a SNES look to this set.
+
+Copyright/Attribution Notice: 
+Give credit if used.
