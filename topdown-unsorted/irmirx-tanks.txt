@@ -1,0 +1,4 @@
+author: Irina Mir "irmirx" (https://www.behance.net/irmirx)
+license: CC-BY
+source: http://opengameart.org/content/top-down-painted-tanks
+        http://opengameart.org/content/top-down-vehicle

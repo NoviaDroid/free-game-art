@@ -1,0 +1,8 @@
+author: Krzysztof "Ravenmore"
+license: CC-BY
+source: http://opengameart.org/content/fantasy-portrait-pack-by-ravenmore
+
+-Human, Elf, Dwarf and Gnome.
+
+Copyright/Attribution Notice: 
+If you manage to get your game released (or close) put a link to my portfolio in your game, thanks! It's http://dycha.net

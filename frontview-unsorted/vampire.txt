@@ -1,0 +1,5 @@
+author: Alexander Greye "Chupup Games" (http://www.chupup.com), Nikita Sadkov
+license:  CC-BY 3.0
+source: http://opengameart.org/content/pixel-vampire
+
+edited from vampire by Alexander Greye

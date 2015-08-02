@@ -1,0 +1,10 @@
+author: Krzysztof "Ravenmore"
+license: CC-BY
+source: http://opengameart.org/content/fantasy-ui-elements-by-ravenmore
+
+An UI idea for Ancient Domains of Mystery that didn't make the cut. It does have it's downsides, but still should work just fine for prototyping. Best not let it go to waste :) so I added a couple of things and released it into the wild!
+
+PS. Title font used: Nevis.
+
+Copyright/Attribution Notice: 
+If you use these resources and manage to get your game published, please include a link to my portfolio (http://dycha.net) somewhere visible. Other than that you're free to do whatever you like :)

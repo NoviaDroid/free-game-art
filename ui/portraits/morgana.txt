@@ -1,0 +1,3 @@
+author: Sir Twist
+license: CC-BY-SA
+source: http://opengameart.org/content/portrait

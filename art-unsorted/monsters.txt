@@ -1,0 +1,6 @@
+author: Sir Twist
+license: CC-BY-SA
+source: http://opengameart.org/content/dagger
+        http://opengameart.org/content/harpy
+        http://opengameart.org/content/monster-0
+        http://opengameart.org/content/naga-0
