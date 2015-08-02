@@ -1,0 +1,7 @@
+author: E-norm
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/graphical-factory-spaceship-humans
+        http://opengameart.org/content/zombiesmutants
+        http://opengameart.org/content/electric
+
+I've converted lightning intensity to alpha channel.
