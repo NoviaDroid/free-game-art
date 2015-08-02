@@ -1,0 +1,5 @@
+author: Sylvius Fischer "skoam", Nikita Sadkov
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/rpg-boss-brown-mummy
+
+Edited from CC0 sprite by Sylvius Fischer.

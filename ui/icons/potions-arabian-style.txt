@@ -1,0 +1,5 @@
+Author: Carlos (Slainte)
+License: OGA-BY 3.0
+Origin: http://opengameart.org/content/arabian-nights-potions
+
+Made them a long time ago, for an arabian nights themed game idea. Size 48x48, not too well suited for light backgrounds (black aa)

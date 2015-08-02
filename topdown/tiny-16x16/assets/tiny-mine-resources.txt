@@ -1,0 +1,10 @@
+Author: dutzy
+License: CC-BY, OGA-BY
+Origin: http://opengameart.org/content/rts-mining-resources-16x16
+
+Mined resource sprites for my RTS but will probably fit in with a lot of other themes.
+
+16x16. Three (3) resources with a snowy winter wonderland overlay. Stone, Gold and Jewels/Gems.
+
+Copyright/Attribution Notice: 
+Based on <a href="http://opengameart.org/content/tiny-16-basic">work by Sharm</a> Attribution for 'derived' works not required but would be appreciated, "dutzy".

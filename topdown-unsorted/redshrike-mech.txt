@@ -1,0 +1,7 @@
+author: Stephen Challener "Redshrike", KrizEvil
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/mech-48x48
+
+Credits to Redshrike and KrizEvil
+Based off of http://krizevil.deviantart.com/art/RS-01-final-version-448103228
+Meant for the OGA JRPG 16x18 set.

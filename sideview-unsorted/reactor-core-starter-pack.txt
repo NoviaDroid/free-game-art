@@ -1,0 +1,42 @@
+Author: Anton Temba "Reactorcore" (http://www.reactorcoregames.com/)
+License: CC-BY-SA 3.0
+Origin: http://opengameart.org/content/pixel-sprites-ala-reactorcore-starter-pack
+
+
+Copyright/Attribution Notice: 
+You can: -Use the contents of this pack for a commercial project -You must credit me as "Reactorcore (Anton Temba)" You can NOT: -Resell this package as is or modified -Claim this package or its contents as your own work
+
+=====================================================
+
+PSRC - Pixel Sprites ala Reactorcore
+STARTER PACK (FREE)
+
+PSRC is a huge library of pixel sprites, with this package being a free starter pack, that contains a large amount of content, enough to build a whole game with. There are over 230 unique objects.
+
+Includes a human character, clothes, air/sea/land vehicles, trees, rocks, guns, melee weapons, light sources, prototyping shapes, helper grids, gameplay objects, seamless textures, decoration objects and more.
+
+To further expand the content, you may purchase expansion packs that focus on a certain theme, usually including hundreds of objects that are dedicated towards that theme.
+
+See my website, http://www.reactorcoregames.com/sprites.htm for more details and more expansion packs.
+
+The zip includes:
+
+-Large collection of 2D objects both as individual images and optimized atlases. Every object comes with in a greyscale and color version. The format is .PNG with transparency. The regular size for the atlases is 256x256. All sprites follow a standard of 1 meter = 40 pixels, so everything is compatible with one another.
+
+-The images are designed for direct game development use.
+
+-Also includes an importable Unity3D package with all settings ready for each image.
+
+Features:
+
+Standardized
+Flexible
+Customizable
+Optimized for Game Dev
+Zoomable up to 600%
+Light-weight
+Atlases and Individual Images
+Greyscale and Colored
+Huge Growing Library
+For support, contant me by email:
+reactorcoregames@gmail.com

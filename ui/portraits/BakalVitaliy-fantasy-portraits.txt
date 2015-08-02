@@ -1,0 +1,5 @@
+author: CobraLad
+license: CC-BY
+source: http://opengameart.org/content/32x32-fantasy-portrait-set
+
+Set of 14 32x32 fantasy portraits

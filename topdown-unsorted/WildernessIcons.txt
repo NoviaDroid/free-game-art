@@ -1,0 +1,5 @@
+author: Mophs (Tor H)
+license: CC-BY, CC-BY-SA, GPL2, GPL3, OGA-BY
+source: http://opengameart.org/content/bw-wilderness-map-icons
+
+A few terrain features (rocks, trees and mountains) for use with map making (in the artistic sense, definitely not to scale).

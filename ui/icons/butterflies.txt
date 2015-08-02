@@ -1,0 +1,19 @@
+author: Ivan Voirol "Silver IV"
+license: CC-BY, GPL2, GPL3, CC0 (Public Domain)
+source: http://opengameart.org/content/butterflies
+
+9 different butterflies in pixelart. v1.0
+
+From left to right and top to bottom :
+- Machaon
+- Charaxe Paphianus
+- Lemonias Emylius
+- Nymphalidae Neptis
+- Monarc
+- Ornithoptera Priamus
+- Morpho Anaxibia
+- Charaxe Dilutus
+- Lycaenidae Amblypodia
+
+Copyright/Attribution Notice: 
+Ivan Voirol

@@ -1,0 +1,3 @@
+author: George Bailey
+license: CC-BY
+origin: http://opengameart.org/content/old-tiles

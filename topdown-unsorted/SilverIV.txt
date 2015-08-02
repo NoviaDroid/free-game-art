@@ -1,0 +1,15 @@
+author: Ivan Voirol "Silver IV"
+license: CC-BY, GPL2, GPL3
+source: http://opengameart.org/content/map-tile
+        http://opengameart.org/content/basic-map-32x32-by-silver-iv
+
+
+Basic map tile 32x32 v3.1 with :
+-RPG-style buildings / sidewalks
+-animated water / animated waterfalls / animated deep water
+-grass / flowers / trees / cactuses / bushes
+-stone walls / cave enter / stone stairs / lever on stone wall
+-bridge and pontoon / fences
+-sand
+
+-wall signs / wall symbols
