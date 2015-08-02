@@ -1,0 +1,21 @@
+author: Krzysztof "Ravenmore"
+license: CC-BY
+source: http://opengameart.org/content/golden-items-rip-upgrade-pack
+
+An expansion for my icon pack:
+
+Ravenmore Icon Pack
+
+But works very well on its own :)
+
+If you want to use the basic versions like in the example, download the original pack - it contains both basic icons and this upgrade.
+
+Have fun!
+
+-- Adding this was suggested by the fine fellows at http://traptics.com/site/
+
+Hope you find it useful!
+ 
+
+Attribution Instructions: 
+If you manage to sell/publish your game just drop my nick and a link to my portfolio (http://dycha.net) in your games' credit section :) Thanks!

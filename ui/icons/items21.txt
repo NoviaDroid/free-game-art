@@ -1,0 +1,3 @@
+author: Krzysztof "Ravenmore"
+license: CC-BY
+source: http://opengameart.org/content/outdatedarchive-fantasy-icon-pack
