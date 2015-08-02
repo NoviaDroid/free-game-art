@@ -1,0 +1,7 @@
+author: Lionx_Dagger
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/fallen
+
+Set of sprite to my old project
+
+Style of the game changed and i wont be using pixel art anymore to that project

@@ -1,0 +1,9 @@
+author: Aldschutze
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/4-elements-8x10px
+
+4 icons of  4 basic elements: Water, Fire, Earth, Air
+Each icon has a resolution of 8x10 px 
+
+Copyright/Attribution Notice: 
+Free for use for everyone
