@@ -1,0 +1,5 @@
+author: thespaceinvader
+License: GPL2
+origin: http://opengameart.org/content/wesnoth-generic-dwarf
+        http://opengameart.org/content/wesnoth-generic-human
+        http://opengameart.org/content/wesnoth-generic-human-female

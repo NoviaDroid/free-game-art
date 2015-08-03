@@ -1,0 +1,5 @@
+author: Jorge Avila
+license: CC-BY 3.0
+source: http://opengameart.org/content/gui-for-some-rpg-game
+
+Eng: Hi to everyone, i apologize for my poor bilingual abilities. I'm trying to design a graphical user interface. This is just a start. I'll be glad if someone could give me some tips & advices =) i'll speak in spanish, cos it's my natural language, and it's more comfortable to me..
