@@ -1,0 +1,4 @@
+author: Artur Reterski
+license: CC-BY-SA 3.0, GPL 3.0
+source: http://opengameart.org/content/items-set
+        http://opengameart.org/lpc-art-entries

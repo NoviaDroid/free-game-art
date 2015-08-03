@@ -1,0 +1,9 @@
+author: James White
+license: CC-BY
+source: http://opengameart.org/content/dice-4
+
+
+LICENSING
+
+Everything contained in this archive is distributed under CC-BY. Basically you can use this work anywhere and in any way you want. More information about license type can be found here: http://creativecommons.org/licenses/by/2.0/
+

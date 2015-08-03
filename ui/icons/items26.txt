@@ -1,0 +1,10 @@
+author: yinakoSGA (http://www.supergameasset.com)
+license: CC-BY
+source: http://opengameart.org/content/basic-gems-icon-set
+        http://opengameart.org/content/basic-gems-icon-set-remix
+
+The -nobg version is by prdatur
+
+These gem icons, contain wide variety of gems and crystal of different shapes and colour. Each also has different grades of basic, high quality, epic etc.  can be renamed to match the gems or items in your game. See screent shot for each icon design and names.
+
+See Full PSD icon set at http://www.supergameasset.com/basic-gems

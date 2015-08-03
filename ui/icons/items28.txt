@@ -1,0 +1,7 @@
+Author: Jorge Avila (http://sumwars.org)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/skull
+        http://opengameart.org/content/poison-skull
+        http://opengameart.org/content/shield
+        http://opengameart.org/content/fire-punch
+        http://opengameart.org/content/frozen-punch

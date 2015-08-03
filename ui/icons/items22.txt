@@ -1,0 +1,9 @@
+author: yinakoSGA (http://www.supergameasset.com)
+license: CC-BY
+source: http://opengameart.org/content/basic-rpg-item-icons-free
+
+Fantasy themed Icons, suitable for RPG and Strategy games, include various consumable Item, potions, scrolls, chest and many more. Contain wide variety of items. Can be renamed to match the items in your game. 
+
+Contains 30 separate PNG files
+
+Also check Full icons set http://supergameasset.com/icon/basic-rpg-item-icons

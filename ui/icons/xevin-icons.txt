@@ -1,0 +1,9 @@
+author: Stepan "Xevin"
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/pixel-icons
+        http://opengameart.org/content/enemy-logo
+        http://opengameart.org/content/helmet-0
+        http://opengameart.org/content/mech-0
+        http://opengameart.org/content/simple-spaceship
+
+The spaceship was edited by me (Nikita Sadkov)

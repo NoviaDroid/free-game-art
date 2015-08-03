@@ -1,0 +1,3 @@
+author: Wyrmheart "Rodrigo"
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/ui-resources

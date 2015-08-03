@@ -1,0 +1,5 @@
+author: Wyrmheart "Rodrigo"
+license: CC-BY-SA
+source: http://opengameart.org/content/inventory-ui
+
+The character was edited out due to copyright infringement.

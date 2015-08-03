@@ -1,0 +1,23 @@
+author: Jorge Avila
+license: CC-BY 3.0, LGPL 2.1, LGPL 3.0
+source: http://opengameart.org/content/moderna-graphical-interface
+
+Hi, it's me again. Here i post another idea for a g.u.i.
+
+It's just a few ideas, that i will continue designing.
+
+For now, the set includes: health and mana bar, vault window, quest window, spells window, quick spellsbar, system icons for "character, vault, spells, configuration and chat".
+
+I post the source, that will be updated when i make changes.
+
+Ask and suggestions are welcome.
+
+I hope you like it.
+
+Feel free to use. Just credit me.
+
+Cheers! =)
+
+..............
+
+Maded in photoshop cs3, with pen tablet, and a lot of time.
