@@ -1,0 +1,5 @@
+Author: Justin Nichol
+License: CC-BY-SA, GPL3, GPL2
+Origin: http://opengameart.org/content/metal-elemental-guardian
+
+A concept for a Metal Elemental Guardian for Clint Bellangers FLARE.

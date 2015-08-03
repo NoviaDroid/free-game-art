@@ -1,0 +1,9 @@
+Author: Paulius Jurgelevicius
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/modified-and-cliped-magic-skill-item-icons
+
+I had cliped from the borders all of the icons from my first submission Skill, item and spell icons and modified most of them. Modifications is made whit a crappy mouse(cause my drawing tablet is broken) so some of them may not look so good. In total there is 576 icons, but some of them may look very similar and some is just with changed color, i included original(cliped from borders) images too. The sources is in tif format, cause i don't know if .psd is readable by most of image editors. Sources do not includes the layers from original images, cause those are lost, and the images in sources is different sizes so if you want them in other size, you will have to resize them your self. I have resized them to 32x32, 48x48, 64x64, 128x128 and 256x256, but uploaded only 64x64 cause the size of this submission would be to big, but if there is a need to upload other sizes i could do it. If you dont like the color or some added layers, you can easly recolor/remove it. Have fun! :)
+
+ 
+
+P.S. i will get a new drawing tablet after a month or so and i need to know if you like this style icons, cause i want to make more of them, but this time with full sources.
