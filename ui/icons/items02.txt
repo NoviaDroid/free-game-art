@@ -1,5 +1,5 @@
-origin: http://opengameart.org/content/item-collection-fantasy-themed
+Author: Jana Ochse "2D-Retroperspectives" (www.2d-retroperspectives.org, http://www.2d-rp.de/)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/item-collection-fantasy-themed
 
-This work is licensed under the Creative Commons Attribution 4.0  License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
-
-Author: Jana Ochse, 2D-Retroperspectives, www.2d-retroperspectives.org
+A collection of various fantasy themed items for use in menus or whatever you think fitting ;) Hope you enjoy them! Sheet consists of twelve items a 200x200px. As always I am interested to hear about your projects and opinions.
