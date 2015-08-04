@@ -1,0 +1,9 @@
+author: usr_share
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/the-collection-of-8-bit-fonts-for-grafx2-r2
+
+This is a collection of bitmap fonts in Bitmap Font Writer format (supported in Grafx2 image editor, SFont library, etc.)
+
+Several new fonts were added, and the designs for a few are revised.
+
+Important note: while some of these fonts were inspired by those used in known video games and home computer systems, these are not, and are not supposed to be, complete recreations of these. Some, in fact, deviate quite greatly. (There's enough of full clones available on the net already.) They shouldn't cause problems with the copyright, either -- especially as bitmap fonts do not seem to be covered by the copyright in the U.S., Japan as well as most of the world (with the exception of the U.K, where they are protected for 25 years.).
