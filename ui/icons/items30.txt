@@ -1,0 +1,6 @@
+author: Fabio "Fabzy" (http://www.revolutionresources.co.uk/)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/the-revolution-items
+
+The Revolution is a project i am working on for fun in my spare time, it started out being just the flagship tileset known as the revolution, but as it grew i got requests for other resources so here is the revolution, a collection of 2d pixel art created by me for all you game developers.
+
