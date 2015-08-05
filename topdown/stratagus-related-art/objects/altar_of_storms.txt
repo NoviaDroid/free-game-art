@@ -1,5 +1,5 @@
-Authors: Aleona's Tale Team
-License:  GPL2
+Authors: Aleona's Tale Team, Nikita Sadkov
+License: GPL2
 Origin: http://stratagus.com/games/aleonas-tales/
 
 this edit fixes colors a little
