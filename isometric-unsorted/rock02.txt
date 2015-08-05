@@ -1,0 +1,3 @@
+author: glitch
+License: CC0 (Public Domain)
+source: https://openclipart.org/user-cliparts/glitch
