@@ -1,0 +1,9 @@
+author: Jetrel, Nikita Sadkov
+license: CC-BY-SA 3.0
+origin: https://sourceforge.net/projects/valyriatear/
+
+Edited by to make less cute.
+
+img/icons/actors/enemies/thing.png
+CC by SA 3.0 
+From Jetrel (OGA) (From thing enemy)
