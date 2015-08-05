@@ -1,3 +1,3 @@
 Each asset has its own license. See readme, copying or license files in respective directories. All licenses give your right to copy and modify. I.e. this repository has no CC-BY-NC or CC-BY-ND licensed stuff.
 
-The isometric/unsorted/ directory is special in that every artwork there has an associated txt file with information about author, license and the soruce of file.
+The */unsorted/ folders are special in that every artwork there has an associated txt file with information about author, license and the soruce of file.
