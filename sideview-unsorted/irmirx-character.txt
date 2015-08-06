@@ -1,0 +1,7 @@
+author: irmirx
+license: CC-BY
+source: http://opengameart.org/content/animated-runner-character
+
+Another sprite I have sitting around on my hard drive from a project that never happened. Pixel art character for a runner game. Run cycle, jump frames, shooting pose.
+
+Yes he looks Tron-inspired and yes he was supposed to be an Internet White Knight, running through websites and shooting up memes and stuff. This didn't seem like a good idea anymore, but I hope these sprites can still be of any use.
