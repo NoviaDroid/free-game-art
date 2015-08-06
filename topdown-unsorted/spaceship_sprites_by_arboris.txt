@@ -1,0 +1,9 @@
+author: arboris
+license: CC-BY-SA
+source: http://arboris.deviantart.com/art/Spaceship-sprites-43030167
+
+Over the years I've gotten quite a few request from people who wanted to use this in their own games. So just to be clear about this:
+
+Yes, you can use this for your own purposes, be it non-profit or commercial.
+
+No, I'm not interested in helping with some extra art you might need for said game.
