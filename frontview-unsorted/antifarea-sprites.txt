@@ -1,0 +1,7 @@
+author: Charles Gabriel (Antifarea)
+license:  CC-BY 3.0, CC-BY-SA 3.0, GPL2, GPL3
+source: http://opengameart.org/content/10-fantasy-rpg-enemies
+        http://opengameart.org/content/10-more-fantasy-rpg-enemies-plus-a-boss
+        http://opengameart.org/content/gaia-free-boss-monster
+
+This is an OGA exclusive, paid for by users like you.  :)
