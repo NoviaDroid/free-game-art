@@ -1,0 +1,23 @@
+Author: Juriy Bura, Sergey "Nitro Killer" Lesiuk (http://nitro-killer.deviantart.com/), Marcus Studio (http://www.marcusstudio.com.ua/)
+License: CC-BY 3.0
+Origin: http://juriy.com/mybook.html
+
+This is the package of free art created on behalf of Juriy Bura.
+
+All items in this package use the Creative Commons Attribution 3.0 License. In short can use and modify any images covered by this license provided that you attribute the original source materials to http://juriy.com
+
+The full text of the license is located at:
+http://creativecommons.org/licenses/by/3.0/us/
+
+Please add the following contribution to your game credits or to the game page: 
+"This game uses free art from http://juriy.com"
+
+You can freely redistribute this package on your own website, provided that you add the link to http://juriy.com and keep this file intact.
+
+The art was originally created for the book "Pro Android Web Game Apps" http://www.amazon.com/Pro-Android-Web-Game-Apps/dp/1430238194. If you like this package, please consider donating a buck or two for the next great set of free game sprites (please visit the website for details). 
+
+The authors:
+Sergey "Nitro Killer" Lesiuk (http://nitro-killer.deviantart.com/) - the isometric landscape and huts
+Marcus Studio (http://www.marcusstudio.com.ua/) - the animated knight character
+
+Feedback is always welcome. I'd love to hear about your project that benefit from this free assets! Write me on juriy.bura@gmail.com or just leave a comment on my blog.
