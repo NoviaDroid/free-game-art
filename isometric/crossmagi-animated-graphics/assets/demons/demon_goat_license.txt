@@ -1,0 +1,8 @@
+demon_goat
+
+roatation and animation by:
+Sherock and Jlittle
+
+Origin: rltiles.sourceforge.net
+Licenses: see above
+

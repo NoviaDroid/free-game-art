@@ -1,0 +1,8 @@
+demon_cyclops
+
+roatation and animation by:
+Sherock, Mysteria and Jlittle
+
+Origin: rltiles.sourceforge.net
+Licenses: see above
+

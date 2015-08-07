@@ -1,0 +1,8 @@
+fire_circle
+
+rotation and animation and artwork by:
+Naomeire
+
+Origin: Natalie Wright
+Licenses: GNU General Public Licence(GPL)
+

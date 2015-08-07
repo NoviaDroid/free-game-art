@@ -1,0 +1,5 @@
+Note:  This folder currently contains the animated gif's used to display the 
+png files... these may or may not stay.
+
+The animated gif maker OVERWRITES the animator helper when placed in the same folder
+DO NOT DO THAT ;)

@@ -1,0 +1,7 @@
+angel_small
+
+rotation and animation by Naomeire, and ?
+
+Origin: rltiles.sourceforge.net
+Licenses: see above
+

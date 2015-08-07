@@ -1,0 +1,7 @@
+boring_beetle
+
+Origin: rltiles.sourceforge.net
+Licenses: see above
+
+rotation by jlittle
+animation by jlittle

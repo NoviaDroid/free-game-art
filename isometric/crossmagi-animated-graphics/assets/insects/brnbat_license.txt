@@ -1,0 +1,8 @@
+brnbat.png
+
+Origin: rltiles.sourceforge.net
+Licenses: see above
+
+
+rotation by larry northup
+animation by larry northup

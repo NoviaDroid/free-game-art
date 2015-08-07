@@ -1,0 +1,68 @@
+List of Contributors
+Denzi
+=========
+dwarf lord, watchman, watch captain, page, raven,
+*About half of the Dungeon Crawl tiles*
+*Allmost all the player tiles*
+
+Alex Korol
+=========
+dc/abomination*.bmp, 64x64 stairs tile, 64x64 swamp dragon
+
+Edger
+=========
+Cerberus
+
+Wan-ichi
+=========
+werejackal, werewolf, leocrotta, wumpus,
+titanothere, baluchitherium, wererat
+
+So-Miya
+=========
+chickatrice, pyrolisk, vampire, vampire mage
+storm giant, silver dragon scale mail, shimmering dragon scale mail
+silver dragon scales, shimmering dragon scales, baby shimmering dragon
+shimmering dragon, baby silver dragon, silver dragon
+master mind flayer, leather cloak, magcal explosions
+
+
+Haruko Numata
+=========
+rope golem, leather golem, flesh golem, clay golem
+stone golem, horned devil,
+Lord Carnarvon, Pelias, Shaman Karnov, Hippocrates,
+King Arthur, Arch Priest, Master of Thieves, Norn, Wizard of Balance,
+low boots, iron shoes, high boots, combat boots, jungle boots,
+hiking boots, mud boots
+
+Tatsuya
+=========
+knight(3D), samurai(3D), barbarian(3D)
+hill giant(3D), dragons(3D)
+
+from AllegroHack (Kelly Youngblood, Paul Pliska, John Harris)
+=========
+gas spore, flaming sphere, shocking sphere
+
+Dainokata
+=========
+warg, manes, shrieker, 
+water moccasin, elf zombie,human zombie,
+straw golem, iron golem, wererat, shopkeeper,
+guard, iguana, caveman, healer, rogue,
+tourist, dart, aklys, elven bow,
+orcish bow, elven cloak,
+orcish cloak, opera cloak, sack,
+lock pick, lamp, blindfold, towel,
+leash, stethoscope, tinning kit, figurine,
+cram ration, food ration, statue, alter, sink
+
+Zmy
+=========
+dog, large dog, bugbear, rothe, ape, owlbear,
+skeleton, Woodland-elf, Green-elf, Grey-elf,
+Croesus, marilith, vrock, hezrou, nalfeshnee, Orcus,
+Demogorgon, cavewoman, Elwing, dwarvish mattock,
+pickaxe, Kop Lieutenant, Kop Sergeant, elf-lord
+Oracle, Archon, Snake, pyton, cobra, Earendil
