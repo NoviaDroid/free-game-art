@@ -1,0 +1,11 @@
+authors: Leonhard Vogt "leovt"
+license: CC-BY-SA 3.0
+origin: http://opengameart.org/content/isometric-32x16-person-sprite
+
+A person sprite with a standing pose and a 4-frame walking animation 
+in four directions for square isometric tiles
+
+Indexed colors allow a simple palette change for changeing skin, shirt and pant color.
+
+Copyright/Attribution Notice: 
+2015 by Leonhard Vogt

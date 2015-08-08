@@ -1,0 +1,6 @@
+Author: qubodup
+License: CC-BY-SA 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/pastel-resources-tiles-96x96
+        http://opengameart.org/content/pastel-resources-hex-tiles-55x64-and-64x55
+
+Hopefully they are nice enough to be used instead of copyright-infringing material, which are used in many open source SoC-clones. 
