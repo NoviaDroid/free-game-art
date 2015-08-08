@@ -1,0 +1,5 @@
+Authors: Pocket Heroes Artists, Nikita Sadkov
+License: CC-BY
+Origin: https://code.google.com/p/pocketheroes/
+
+Edited of CC-BY blacksmith from PocketHeroes
