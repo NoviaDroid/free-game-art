@@ -1,0 +1,7 @@
+author: Laura R. Osborn "BlueCorvid" (http://bluecorvid.deviantart.com/)
+license: CC-BY
+origin: http://bluecorvid.deviantart.com/art/Interior-Tileset-1-522732594
+
+Tileset for an RPG. The whole game will be 16 colors (4bit) and these tiles are 16x16. They'll be blown up to 32x32 in-game, though -- should I resize the mockup to show it at the right size?
+
+This part of the game asses is done (as much as anything is ever "done" I guess.) In the end I'm hoping to make some sprites and some outdoor tilesets as well. When it's finished, the whole thing will be packaged with the new RPG Toolkit under a CC-BY license so you can use them in your games (even for commercial purposes) as long as you put me in the credits! :dance: I think I'll upload them here too though, as PNG files.
