@@ -1,4 +1,4 @@
-Author: bigrookgames.com
+Author: Big Rook Games (bigrookgames.com)
 License: CC BY
 Origin: http://www.youtube.com/watch?v=5rvbbtqZh4c
         http://www.bigrookgames.com/files/UndeadEmpire2DAssets.zip
