@@ -1,0 +1,3 @@
+author: Billy Brown
+license: CC-BY
+source: https://archive.org/details/pixelatedneworleanshomes
