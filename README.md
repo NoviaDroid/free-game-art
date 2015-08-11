@@ -1,6 +1,8 @@
 # Free Game Art
 A collection of graphics with Public Domain,CC-BY-SA,GPL,BSD,MIT licenses - anything allowed to be used in your free or commercial game, as long as you credit the original producers.
 
+In case you also need free to use game music, there is a separate repository to check out: https://github.com/saniv/free-game-music
+
 ## What about OpenGameArt.org?
 Unfortunately OpenGameArt.org curators believe that plundering open source repositories for art is unethical and damaging to site's reputation, even if license allows that. (Full story: http://opengameart.org/forumtopic/censored-broforce-sprites-and-game-ready)
 
