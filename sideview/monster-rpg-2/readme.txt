@@ -1,4 +1,4 @@
-Author: Nooskewl Games
+Author: Nooskewl Games (http://www.nooskewl.com/)
 License: CC0 (Public Domain)
 Origin: http://opengameart.org/content/main-art-from-monster-rpg-2
 
