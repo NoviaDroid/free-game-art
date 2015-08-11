@@ -1,0 +1,31 @@
+#! /bin/bash
+
+#combines png images from a folder into a sprite sheet
+#usage: sheetify <images_per_line> <folder_with_png_images>
+
+maxwh ()
+{
+   mw="$(identify $1/*.png |
+         grep -o "[0-9]*x[0-9]*+" |
+         sed "s/\([0-9]*\)x\([0-9]*\)+/\1/" |
+         sort -n |
+         tail -n 1)"
+   mh="$(identify $1/*.png |
+         grep -o "[0-9]*x[0-9]*+" |
+         sed "s/\([0-9]*\)x\([0-9]*\)+/\2/" |
+         sort -n |
+         tail -n 1)"
+   echo "${mw}x${mh}"
+}
+
+d=$(echo "$2" | sed 's%/$%%')
+
+for i in $d; do
+  montage $i/*.png \
+          -geometry "$(maxwh $i)>+0+0" \
+          -tile $1 \
+          -background none \
+          $i.png
+done
+
+#          -geometry "96x96>+0+0" \
