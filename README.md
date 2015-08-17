@@ -20,7 +20,7 @@ As well as a few unique spirtes, like the isometric Wikipe-tan
 https://github.com/saniv/free-game-art/blob/master/isometric/unsorted/wikipe-tan.png
 
 And a few sprites drawn completely from scrach by myself:
-https://github.com/saniv/free-game-art/blob/master/isometric/unsorted/sprites-by-nikita-sadkov.png
+https://github.com/saniv/free-game-art/blob/master/isometric-unsorted/sprites-by-nikita-sadkov.png
 
 If you have free art which is inappropriate for OGA (i.e. CPL or BSD licensed artworks, like SpriteLib by Ari Feldman), you can send a pull request or FreeGameArt can link to your repository.
 
