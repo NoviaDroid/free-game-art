@@ -1,0 +1,1 @@
+Comes from http://forums.wesnoth.org/viewtopic.php?f=23&t=39931

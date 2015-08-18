@@ -1,0 +1,7 @@
+Author: cephalo
+License: GPL2
+Origin: http://wesnoth.org
+        http://units.wesnoth.org/1.10/Library_Of_Kratemaqht/en_US/The_Library_Of_Kratemaqht.html
+        http://forums.wesnoth.org/viewtopic.php?f=8&t=37798
+
+includes animations usable with generic isometric engine

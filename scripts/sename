@@ -1,0 +1,14 @@
+#!/bin/bash
+
+What="$1"
+With="$2"
+Path="$3"
+Folder="$(dirname "${Path}")"
+Name="$(basename "${Path}")"
+
+NewName="$(echo "${Name}" | sed "s/${What}/${With}/g")"
+
+if [ "x$NewName" != "x$Name" ]; then
+  mv "${Folder}/${Name}" "${Folder}/${NewName}"
+fi
+

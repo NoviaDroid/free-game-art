@@ -1,0 +1,9 @@
+The Fence:
+Rather than make all the complex macros to draw a fence of any size, I opted to just draw the whole fence at once and put it logically in just two tiles.
+
+The Ship:
+All the images with "tile" in their names are for the minimap and editor. Some of them are transparent, and the rest are identical. That is fine for the minimap, but inconvenient for the editor. More useable versions can be found it the "editor tiles" folder.
+
+If you want to use the ship, take a look at the terrain codes in Becalmed.map to see how to put one on the map. Other than the deck, there are only a couple tiles. Really big tiles. The files 04_Becalmed.cfg and utils.cfg have the code to make it possible to remove the sails and rigging in order to make it easier for the player to see units in a few hexes.
+
+The bats in SotA were adjusted. (Look in the units folder.) They are drawn in a lower z-layer so they can go behind the rigging. Other flying units would have to have the same treatment or it will look awkward.
