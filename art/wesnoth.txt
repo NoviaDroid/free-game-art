@@ -1,0 +1,1 @@
+Don't forget to check isometric/wesnoth/ for art and portaits folders.
