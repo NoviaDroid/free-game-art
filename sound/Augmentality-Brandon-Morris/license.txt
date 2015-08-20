@@ -1,3 +1,0 @@
-author: Brandon Morris (Augmentality)
-license: CC3-BY-SA
-origin: http://opengameart.org/users/haeldb
