@@ -66,12 +66,6 @@ archer_2003.jpg
     source: http://commons.wikimedia.org/wiki/File:Pixeled_archer_2003.jpg
     note: An image of what is supposed to be some sort of archer, medieval fantasy style. Originally made for the content of a web site, the image was mostly drawn using XPaint.
 
-Sprite_example_neoriceisgood.png
-    author: http://wiki.wesnoth.org/Contrib:Neoriceisgood
-    license: GPL
-    source: http://commons.wikimedia.org/wiki/File:Sprite_example_neoriceisgood.png
-    note: Contributions of artist Neoriceisgood in the forum of Battle for Wesnoth. Such contributions are licensed under GPL (http://forums.wesnoth.org/viewtopic.php?t=2014)
-
 Indy.png
     author: Monsieurouxx
     license: Creative Commons Attribution-Share Alike 4.0 International
