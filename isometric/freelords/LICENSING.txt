@@ -1,0 +1,7 @@
+This program is distributed under a double license. Depending on your taste,
+you can choose to distribute the program and source code under the GNU
+General Public License v2 or the Eclipse Public License v1.0, fulfilling the
+requirements for the chosen license in turn.
+
+Note that some of the libraries are distributed under the Eclipse Public
+license, which is incompatible with the GNU GPL.
