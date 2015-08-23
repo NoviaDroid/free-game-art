@@ -1,0 +1,6 @@
+author: Goodgame Studios
+license: CC-BY-SA 4.0
+source: https://commons.wikimedia.org/wiki/File:Goodgame_Empire_Screenshot_Burg.jpg
+        https://commons.wikimedia.org/wiki/Category:Goodgame_Empire#/media/File:Goodgame_Empire_Screenshot.jpg
+
+OTRS verified account - see de:Benutzer:Goodgame
