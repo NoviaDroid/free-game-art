@@ -1,0 +1,7 @@
+Copyright and license notices are held in the comments section of each image file in this directory.
+
+Use the `pnginfo' program from the www.stillhq.com/pngtools/ software package to read the comments in the image files.
+
+These images were created specifically for lordsawar, with the exception of the medals_mask.gif file that was created as part of the freelords project, and the back.bmp and background.png files that were created as part of the paragui project.
+
+back.bmp is Copyright (C) 2003 Alexander Pipelka, and comes from the paragui project.  The back.bmp file is licensed under the GNU General Public License version 3, or later at your option.

@@ -1,0 +1,14 @@
+author: TearOfTheStar (Twitter @TearOfTheStar)
+license: CC-BY
+source: http://opengameart.org/content/8x8px-tileset
+
+Simple 8x8px tileset with basic set of tiles. Tried to fit it in my fav 32x32px size. :)
+
+Sand and cacti tiles are form: http://opengameart.org/content/8x8px-sand-cacti-scorpion-tileset
+
+Preview scale x3.
+
+_p1 tileset = 1px padding.
+
+Copyright/Attribution Notice: 
+If you are using my pixels, give me a credit and shoot me a message here or at Twitter @TearOfTheStar.

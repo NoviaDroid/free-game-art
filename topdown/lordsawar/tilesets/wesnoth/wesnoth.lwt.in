@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<tileset version="0.2.1">
+    <d_id>5</d_id>
+    <_d_name>Wesnoth</_d_name>
+    <d_copyright>Copyright (C) 2007, 2009 Ben Asselstine</d_copyright>
+    <d_license>Licensed under the GPL Version 3 or later at your option.</d_license>
+    <_d_info>A tileset based on Wesnoth tileset</_d_info>
+    <d_tilesize>40</d_tilesize>
+    <d_large_selector>selector</d_large_selector>
+    <d_small_selector>small_selector</d_small_selector>
+    <d_explosion>explosion</d_explosion>
+    <d_roads>roads</d_roads>
+    <d_bridges>bridges</d_bridges>
+    <d_fog>fog</d_fog>
+    <d_flags>flags</d_flags>
+    <road_smallmap>
+	<d_color>164 84 0</d_color>
+    </road_smallmap>
+    <ruin_smallmap>
+	<d_color>255 255 255</d_color>
+    </ruin_smallmap>
+    <temple_smallmap>
+	<d_color>255 255 255</d_color>
+    </temple_smallmap>
+    <tile>
+        <_d_name>Grass</_d_name>
+        <d_moves>2</d_moves>
+        <d_type>Tile::GRASS</d_type>
+        <smallmap>
+		<d_color>80 172 28</d_color>
+        	<d_pattern>0</d_pattern>
+        </smallmap>
+	<tilestyleset>
+		<d_name>grass</d_name>
+		<tilestyle> <d_id>0x00</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x01</d_id> <d_type>16</d_type> </tilestyle>
+		<tilestyle> <d_id>0x02</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x03</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x04</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x05</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x06</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x07</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x08</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x09</d_id> <d_type>0</d_type> </tilestyle>
+	</tilestyleset>
+    </tile>
+    <tile>
+        <_d_name>Water</_d_name>
+        <d_moves>2</d_moves>
+        <d_type>Tile::WATER</d_type>
+	<smallmap>
+		<d_color>44 184 252</d_color>
+        	<d_pattern>3</d_pattern>
+		<d_2nd_color>0 92 208</d_2nd_color>
+	</smallmap>
+	<tilestyleset>
+		<d_name>water</d_name>
+		<tilestyle> <d_id>0x0a</d_id> <d_type>1</d_type> </tilestyle>
+		<tilestyle> <d_id>0x0b</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x0c</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x0d</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x0e</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x0f</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x10</d_id> <d_type>3</d_type> </tilestyle>
+		<tilestyle> <d_id>0x11</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x12</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x13</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x14</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x15</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x16</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x17</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x18</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x19</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x1a</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x1b</d_id> <d_type>4</d_type> </tilestyle>
+		<tilestyle> <d_id>0x1c</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x1d</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x1e</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x1f</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x20</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x21</d_id> <d_type>6</d_type> </tilestyle>
+		<tilestyle> <d_id>0x22</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x23</d_id> <d_type>10</d_type> </tilestyle>
+		<tilestyle> <d_id>0x24</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x25</d_id> <d_type>11</d_type> </tilestyle>
+		<tilestyle> <d_id>0x26</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x27</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x28</d_id> <d_type>12</d_type> </tilestyle>
+		<tilestyle> <d_id>0x29</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x2a</d_id> <d_type>13</d_type> </tilestyle>
+		<tilestyle> <d_id>0x2b</d_id> <d_type>15</d_type> </tilestyle>
+		<tilestyle> <d_id>0x2c</d_id> <d_type>14</d_type> </tilestyle>
+	</tilestyleset>
+    </tile>
+    <tile>
+        <_d_name>Forest</_d_name>
+        <d_moves>3</d_moves>
+        <d_type>Tile::FOREST</d_type>
+	<smallmap>
+		<d_color>0 140 0</d_color>
+        	<d_pattern>1</d_pattern>
+		<d_2nd_color>0 88 0</d_2nd_color>
+	</smallmap>
+	<tilestyleset>
+		<d_name>forest</d_name>
+		<tilestyle> <d_id>0x2d</d_id> <d_type>1</d_type> </tilestyle>
+		<tilestyle> <d_id>0x2e</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x2f</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x30</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x31</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x32</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x33</d_id> <d_type>3</d_type> </tilestyle>
+		<tilestyle> <d_id>0x34</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x35</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x36</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x37</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x38</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x39</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x3a</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x3b</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x3c</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x3d</d_id> <d_type>10</d_type> </tilestyle>
+		<tilestyle> <d_id>0x3e</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x3f</d_id> <d_type>11</d_type> </tilestyle>
+		<tilestyle> <d_id>0x40</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x41</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x42</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x43</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x44</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x45</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x46</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x47</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x48</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x49</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x4a</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x4b</d_id> <d_type>12</d_type> </tilestyle>
+		<tilestyle> <d_id>0x4c</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x4d</d_id> <d_type>13</d_type> </tilestyle>
+		<tilestyle> <d_id>0x4e</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x4f</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x50</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x51</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x52</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x53</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x54</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x55</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x56</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x57</d_id> <d_type>4</d_type> </tilestyle>
+		<tilestyle> <d_id>0x58</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x59</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x5a</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x5b</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x5c</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x5d</d_id> <d_type>6</d_type> </tilestyle>
+		<tilestyle> <d_id>0x5e</d_id> <d_type>14</d_type> </tilestyle>
+		<tilestyle> <d_id>0x5f</d_id> <d_type>15</d_type> </tilestyle>
+		<tilestyle> <d_id>0x60</d_id> <d_type>1</d_type> </tilestyle>
+		<tilestyle> <d_id>0x61</d_id> <d_type>3</d_type> </tilestyle>
+		<tilestyle> <d_id>0x62</d_id> <d_type>4</d_type> </tilestyle>
+		<tilestyle> <d_id>0x63</d_id> <d_type>6</d_type> </tilestyle>
+		<tilestyle> <d_id>0x64</d_id> <d_type>10</d_type> </tilestyle>
+		<tilestyle> <d_id>0x65</d_id> <d_type>11</d_type> </tilestyle>
+		<tilestyle> <d_id>0x66</d_id> <d_type>12</d_type> </tilestyle>
+		<tilestyle> <d_id>0x67</d_id> <d_type>13</d_type> </tilestyle>
+	</tilestyleset>
+    </tile>
+    <tile>
+        <_d_name>Hills</_d_name>
+        <d_moves>4</d_moves>
+        <d_type>Tile::HILLS</d_type>
+	<smallmap>
+		<d_color>0 140 0</d_color>
+        	<d_pattern>0</d_pattern>
+	</smallmap>
+	<tilestyleset>
+		<d_name>hills</d_name>
+		<tilestyle> <d_id>0x68</d_id> <d_type>1</d_type> </tilestyle>
+		<tilestyle> <d_id>0x69</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x6a</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x6b</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x6c</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x6d</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x6e</d_id> <d_type>3</d_type> </tilestyle>
+		<tilestyle> <d_id>0x6f</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x70</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x71</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x72</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x73</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x74</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x75</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x76</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x77</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x78</d_id> <d_type>10</d_type> </tilestyle>
+		<tilestyle> <d_id>0x79</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x7a</d_id> <d_type>11</d_type> </tilestyle>
+		<tilestyle> <d_id>0x7b</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x7c</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x7d</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x7e</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x7f</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x80</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0x81</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x82</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x83</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x84</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x85</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x86</d_id> <d_type>12</d_type> </tilestyle>
+		<tilestyle> <d_id>0x87</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0x88</d_id> <d_type>13</d_type> </tilestyle>
+		<tilestyle> <d_id>0x89</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x8a</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x8b</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0x8c</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x8d</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x8e</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x8f</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x90</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0x91</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0x92</d_id> <d_type>4</d_type> </tilestyle>
+		<tilestyle> <d_id>0x93</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x94</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x95</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x96</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x97</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0x98</d_id> <d_type>6</d_type> </tilestyle>
+		<tilestyle> <d_id>0x99</d_id> <d_type>14</d_type> </tilestyle>
+		<tilestyle> <d_id>0x9a</d_id> <d_type>15</d_type> </tilestyle>
+	</tilestyleset>
+    </tile>
+    <tile>
+        <_d_name>Mountains</_d_name>
+        <d_moves>6</d_moves>
+        <d_type>Tile::MOUNTAIN</d_type>
+	<smallmap>
+		<d_color>144 144 144</d_color>
+        	<d_pattern>2</d_pattern>
+		<d_2nd_color>80 80 80</d_2nd_color>
+		<d_3rd_color>112 112 112</d_3rd_color>
+	</smallmap>
+	<tilestyleset>
+		<d_name>mountains</d_name>
+		<tilestyle> <d_id>0xa3</d_id> <d_type>1</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa4</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa5</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa6</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa7</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa8</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa9</d_id> <d_type>3</d_type> </tilestyle>
+		<tilestyle> <d_id>0xaa</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xab</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xac</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xad</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xae</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xaf</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb0</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb1</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb2</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb3</d_id> <d_type>10</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb4</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb5</d_id> <d_type>11</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb6</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb7</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb8</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xb9</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xba</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xbc</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xbd</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xbe</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xbf</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc0</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc1</d_id> <d_type>12</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc2</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc3</d_id> <d_type>13</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc4</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc5</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc6</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc7</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc8</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xc9</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xca</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xcb</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xcc</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xcd</d_id> <d_type>4</d_type> </tilestyle>
+		<tilestyle> <d_id>0xce</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xcf</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd0</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd1</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd2</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd3</d_id> <d_type>6</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd4</d_id> <d_type>14</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd5</d_id> <d_type>15</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd6</d_id> <d_type>1</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd7</d_id> <d_type>3</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd8</d_id> <d_type>4</d_type> </tilestyle>
+		<tilestyle> <d_id>0xd9</d_id> <d_type>6</d_type> </tilestyle>
+		<tilestyle> <d_id>0xda</d_id> <d_type>10</d_type> </tilestyle>
+		<tilestyle> <d_id>0xdb</d_id> <d_type>11</d_type> </tilestyle>
+		<tilestyle> <d_id>0xdc</d_id> <d_type>12</d_type> </tilestyle>
+		<tilestyle> <d_id>0xdd</d_id> <d_type>13</d_type> </tilestyle>
+	</tilestyleset>
+    </tile>
+    <tile>
+        <_d_name>Swamp</_d_name>
+        <d_moves>8</d_moves>
+        <d_type>Tile::SWAMP</d_type>
+	<smallmap>
+		<d_color>0 92 208</d_color>
+        	<d_pattern>4</d_pattern>
+		<d_2nd_color>44 184 252</d_2nd_color>
+		<d_3rd_color>80 172 28</d_3rd_color>
+	</smallmap>
+	<tilestyleset>
+		<d_name>swamp</d_name>
+		<tilestyle> <d_id>0xde</d_id> <d_type>1</d_type> </tilestyle>
+		<tilestyle> <d_id>0xdf</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe1</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe2</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe3</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe4</d_id> <d_type>3</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe5</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe6</d_id> <d_type>10</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe7</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe8</d_id> <d_type>11</d_type> </tilestyle>
+		<tilestyle> <d_id>0xe9</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xea</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xeb</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0xec</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xed</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0xee</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xef</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf1</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf2</d_id> <d_type>7</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf3</d_id> <d_type>12</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf4</d_id> <d_type>2</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf5</d_id> <d_type>13</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf6</d_id> <d_type>8</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf7</d_id> <d_type>9</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf8</d_id> <d_type>4</d_type> </tilestyle>
+		<tilestyle> <d_id>0xf9</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xfa</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0xfb</d_id> <d_type>0</d_type> </tilestyle>
+		<tilestyle> <d_id>0xfc</d_id> <d_type>5</d_type> </tilestyle>
+		<tilestyle> <d_id>0xfd</d_id> <d_type>6</d_type> </tilestyle>
+		<tilestyle> <d_id>0xfe</d_id> <d_type>14</d_type> </tilestyle>
+		<tilestyle> <d_id>0xff</d_id> <d_type>15</d_type> </tilestyle>
+		<tilestyle> <d_id>0x9b</d_id> <d_type>1</d_type> </tilestyle>
+		<tilestyle> <d_id>0x9c</d_id> <d_type>3</d_type> </tilestyle>
+		<tilestyle> <d_id>0x9d</d_id> <d_type>4</d_type> </tilestyle>
+		<tilestyle> <d_id>0x9e</d_id> <d_type>6</d_type> </tilestyle>
+		<tilestyle> <d_id>0x9f</d_id> <d_type>10</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa0</d_id> <d_type>11</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa1</d_id> <d_type>12</d_type> </tilestyle>
+		<tilestyle> <d_id>0xa2</d_id> <d_type>13</d_type> </tilestyle>
+	</tilestyleset>
+    </tile>
+</tileset>

@@ -1,0 +1,14 @@
+Copyright and license notices are held in the comments section of each image file in this directory.
+
+Use the `pnginfo' program from the www.stillhq.com/pngtools/ software package to read the comments in the image files.
+
+The following images were adapted from artwork found in Battle For Wesnoth:
+grass.png
+water.png
+forest.png
+hills.png
+swamp.png
+mountains.png
+
+bigwesnoth.lwt.in: Copyright (C) 2007, 2009 Ben Asselstine.  Licensed under the GPL Version 3 or later.
+
