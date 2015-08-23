@@ -1,0 +1,18 @@
+author: Clint Bellanger
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/good-neighbors-pixel-font
+
+This font is designed to handle crisp pixel art scaling (nearest neighbor, aka no interpolation) and still be legible.
+
+Where would this matter? I'm making pixel art games with approximately NES resolutions (240p). I have those games scale up to the browser/display size, keeping solid pixels (no blurring).
+
+How this ends up working -- imagine you want to scale some pixel art up by 120%. That means every 5th row and column will become 2px thick. Usually that isn't noticeable, But it can be when tiny details matter, such as fonts.
+
+I've included a comparison with two other fonts I've made here on OGA. The top font is a pixel sans font where all the strokes are 1px thick. The middle font is Boxy Bold. The bottom font is Good Neighbors. Each font is scaled at 100%, 133%, 166%, 200%, and 266%. All the fonts look great at 100% and 200% size. But the top font is hard to read at other sizes, while the bottom font is legible and keeps a good style.
+
+Made for my game Recycle Sorter.
+
+Good for educational games around NES/SNES pixel art size. Fits well at 16px line height. This version only includes ASCII 33-127.
+
+Copyright/Attribution Notice: 
+Not necessary, but you can say "Good Neighbors font by Clint Bellanger".
