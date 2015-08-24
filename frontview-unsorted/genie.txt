@@ -1,0 +1,5 @@
+author: Nikita Sadkov
+license: GPL2
+source: https://github.com/saniv/free-game-art
+
+Losely based of Jinn by Battlestar (http://wiki.wesnoth.org/Contrib:Battlestar)
