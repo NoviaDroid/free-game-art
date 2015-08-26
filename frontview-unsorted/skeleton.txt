@@ -1,0 +1,8 @@
+author: Rzrcoon (Andrew Garcell)
+license:  CC-BY-SA 3.0, GPL2
+source: http://opengameart.org/content/skeleton-0
+
+A sit down skeleton pixel.
+
+Copyright/Attribution Notice: 
+For attribution, please state my name, Andrew Garcell

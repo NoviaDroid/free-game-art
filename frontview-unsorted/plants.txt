@@ -1,0 +1,8 @@
+author: Rzrcoon (Andrew Garcell)
+license:  CC-BY 3.0
+source: http://opengameart.org/content/plants-flowers-pixer
+
+Package for various types of plants flowers in pixel art
+
+Copyright/Attribution Notice: 
+Concept Art by me, Rzrcoon
