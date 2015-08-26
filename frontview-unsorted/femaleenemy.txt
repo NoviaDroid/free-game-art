@@ -1,0 +1,9 @@
+author: XGundam05
+license: CC-BY
+source: http://opengameart.org/content/female-cultist
+
+Front-view mage-like enemy.
+
+Created originally for my current game project. Didn't fit with the setting of the game though, so I thought I'd upload it here in hopes that someone might find some use for it ;)
+
+Sprite uses Magic Pink for background (255,0,255), and has the palette of colors I used in the upper left hand corner (for easier editing).

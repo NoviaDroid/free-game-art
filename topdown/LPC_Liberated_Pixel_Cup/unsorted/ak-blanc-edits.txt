@@ -1,0 +1,11 @@
+author: ak-blanc (http://www.anotherkind.net/), Sharm, Janna, Tuomo Untinen, Barbara Rivera and Daneeklu.
+license: CC-BY-SA 3.0, GPL 3.0
+origin: http://opengameart.org/content/lpc-misc-tile-atlas-interior-exterior-trees-bridges-furniture
+
+
+These are mostly recolored or modified elements based on LPC art found on this site.
+
+A lot of it is based on Sharm's awesome work. I've also recolored Janna's furniture so that it would fit better with the other LPC elements, modified Tuomo Untinen's stone bridge to make it usable for buildings like towers or castles, modified Barbara Rivera's tombstones to replace the christian cross by a religion-neutral made up symbol. I also modified Daneeklu's boat.
+
+Copyright/Attribution Notice: 
+I don't need any attribution myself, but as I said, most of it is derivative so do credit the original authors if you want to use these: Sharm, Janna, Tuomo Untinen, Barbara Rivera and Daneeklu.

@@ -1,0 +1,14 @@
+author: ak-blanc (http://www.anotherkind.net/), Sharm, Stephen Challener, Thane Brimhall
+license: CC-BY-SA 3.0, GPL 3.0
+origin: http://opengameart.org/content/lpc-misc-animations-and-items
+
+I modified Sharm's chests to animate them opening.
+
+The weird gate thing is derived from Sharm's work as well and is animated too.
+
+I made a top-hat on an recolored character made with the Universal LPC Sprite Sheet Character Generator, using Stephen Challener and Thane Brimhall's art.
+
+I designed the keys and little glowing ball myself.
+
+Copyright/Attribution Notice: 
+I don't need any attribution but credit Sharm if you're using the animations and Stephen Challener and Thane Brimhall if you're using the top-hat character.
