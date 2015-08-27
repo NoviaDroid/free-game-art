@@ -1,0 +1,21 @@
+1. Howto convert Steve McGuba's KukGen DOS campaign to LGeneral
+===============================================================
+
+1. Download kukv21.zip from kukgen.tripod.com
+2. Unpack the Dat directory.
+3. Touch the following files in the Dat directory because they are needed to
+   complete the conversion. However there is no requirement to use the resulting
+   files later on.
+
+   touch explode.shp
+   touch Map{09,10,12,14,16,18,19,36,37}
+   touch Game{009,010,012,014,016,018,019,036,037}.scn
+
+4. Create another directory, kukgen, with the exact same subdirectories as used
+   by this project. Otherwise lgc-pg will complain about missing directories.
+
+5. Use lgc-pg from LGeneral to convert the DOS content to LGeneral's native
+   file format
+
+    lgc-pg --defpal -s Dat -d kukgen -n kukgen
+

@@ -1,0 +1,40 @@
+K.u.k. General v2.0 Readme
+
+K.u.k. (Kaiserlich und koniglich) General v1.0 is an Austro-Hungarian WWI campaign for Panzer General (DOS).
+Therefore you will need Panzer General (DOS) v1.2 to play it. If you do not have it you can download it from the Internet from various abandonware sites. E.g.:
+http://www.goodolddays.org (search for panzer general)
+http://retrogames.intranet.hu/ (click jatekok and than p)
+
+Installation
+
+Copy the contents of this zip into your PG folder and overwrite the old files. (You may want to make a backup copy of PG before doing so.) You may need to run sound.bat to setup the sound card before running the game with pg.bat.
+
+For information on the campaign contact the manual.pdf or the manual.txt files. To run the pdf file you will need Adobe Acrobat Reader which you can download free from www.adobe.com. The pdf version is much better with photos, maps, and accurate German-Hungarian characters.
+
+IMPORTANT:
+While running PG(DOS) in Windows XP or later you may experience two problems: the mouse is too slow and scrolling speed is too fast. To solve these problems you need to install DOSBOX, a freeware DOS emulator which you can download free from: http://dosbox.sourceforge.net
+
+Additionally, for an easier setup and handling you should also install D-Fend, a Windows frontend for DOSBOX from the same site.
+
+After you installed both DOSBOX and D-Fend run D-Fend and add the destination of the DOSBOX folder. Then choose add a new profile using the profile wizard (first icon from top left). Add the profile name e.g. Kukgen v2.0 and browse the game executable. In this case it is panzer.exe wich can be found in the Exe folder of PG. Click next. On the next screen you may want to add a higher cycle value than the default (I play it with 9000-12000 cycles). It will determinate your game speed. Click next. On the next screen click Auto create. Then next again. Finally you need to specify the sound card settings. Here you need to add the same settings (soundcard type, IRQ, DMA, etc.) as you added while you ran sound.bat otherwise the game will not run. Then click next until you finish. Note: later you can edit the profile with a right click on the profile name to change game speed, sound card, or to make it run in full screen.
+
+On Win98 system you can probably run Panzer General (in DOS mode) without problem.
+
+
+About K.u.k. General v1.0
+
+K.u.k. General is based on Kaiser General by RhinoBones and Champ. I used some parts of their campaign for K.u.k. General, but most things were modified. I contacted both of them and they encouraged me to finish it and to release it to the public. I am also the first one on Earth who modified the original animations of Panzer General.;-)
+
+Changes in v2.0
+
+After finishing v1.0 I wanted to increase graphical and historical accuracy within PG limitations. This version may be a bit harder as all Axis units are slightly more expensive and some units are slightly less effective. On the other hand some enemy units are more effective. Generally speaking, air war is probably a bit more challenging. There are four new scenarios, but many v1.0 scenarios were changed more or less, too. I NUPL-edited the panzer.exe so the player can now purchase more units. Austrian Landwehr and Hungarian Honved and Nepfelkelo infantry units were added. The most obvious change is the tacmap graphics. I wanted to see continuous frontlines and more detail in the land hexes. Ocean hexes are also new - there are no more plain blue ocean hexes. I drew new aerodrome (airfield) hexes. I added new city hexes using resized PG2 graphics - I had some palette problems with it so it is not perfect. I redrew many unit icons more or less.
+
+Many thanks for these guys: Pepa Drobny (bug report, editing the campaign tree, technical and historical information and more), Radoye1 (historical information, suggestions), Allied General Workshop (new ideas for mountain infantry and submerged submarines).
+
+You can contact me directly with your questions and comments at:
+
+kukgen@yahoo.com
+
+
+Regards,
+Steve McGuba

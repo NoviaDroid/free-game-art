@@ -1,0 +1,173 @@
+X-Account-Key: account3
+X-UIDL: UID48605-1274910973
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from smtp03.smtpout.orange.fr ([80.12.242.125] helo=smtp.smtpout.orange.fr)
+	by richard.fcube.de with esmtp (Exim 4.72)
+	(envelope-from <philippe.champarou@wanadoo.fr>)
+	id 1WxcsW-0007U3-19
+	for apo@gambaru.de; Thu, 19 Jun 2014 15:59:57 +0200
+Received: from wwinf2225 ([172.22.131.49])
+	by mwinf5d26 with ME
+	id GDzn1o00N145iwk03Dznia; Thu, 19 Jun 2014 15:59:47 +0200
+X-ME-Helo: wwinf2225
+X-ME-Auth: cGhpbGlwcGUuY2hhbXBhcm91QHdhbmFkb28uZnI=
+X-ME-Date: Thu, 19 Jun 2014 15:59:47 +0200
+X-ME-IP: 83.204.153.24
+Date: Thu, 19 Jun 2014 15:59:47 +0200 (CEST)
+From: Philippe CHAMPAROU <philippe.champarou@wanadoo.fr>
+Reply-To: Philippe CHAMPAROU <philippe.champarou@wanadoo.fr>
+To: Markus Koschany <apo@gambaru.de>
+Message-ID: <1119332703.9041.1403186387654.JavaMail.www@wwinf2225>
+In-Reply-To: <53A0304D.7000804@gambaru.de>
+References: <53A0304D.7000804@gambaru.de>
+MIME-Version: 1.0
+X-Originating-IP: [83.204.153.24]
+X-WUM-FROM: |~|
+X-WUM-TO: |~|
+X-WUM-REPLYTO: |~|
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on richard.fcube.de
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00,FREEMAIL_FROM,
+	HTML_MESSAGE autolearn=ham version=3.3.1
+Subject: re: Debian, LGeneral and K.u.K. General
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_9040_1518906256.1403186387652"
+X-SA-Exim-Version: 4.2.1 (built Mon, 22 Mar 2010 06:51:10 +0000)
+X-SA-Exim-Scanned: Yes (on richard.fcube.de)
+
+------=_Part_9040_1518906256.1403186387652
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Markus,
+=C2=A0
+Very happy to read you, no problem to use contents you want on KUK or other=
+ contributions for mine own...i belong to old internet pg association, at t=
+heese times the goal was to play and realise for other players FREE contrib=
+utions for the only glory to have a message by a player who appreciated our=
+ work.
+=C2=A0
+So use in this way , if i install linux some day on a computer i will be gl=
+ad to play on this platform my favorite game and his extensions.
+=C2=A0
+Excuse shortness of my mesage, i can speak many more but i am a little evrb=
+ooked in theese days!
+=C2=A0
+Many greetings
+=C2=A0
+Philippe
+
+
+
+
+
+> Message du 17/06/14 14:10
+> De : "Markus Koschany"=20
+> A : philippe.champarou@wanadoo.fr
+> Copie =C3=A0 :=20
+> Objet : Debian, LGeneral and K.u.K. General
+>=20
+> Hello Philippe,
+>=20
+> my name is Markus Koschany and I am currently working on LGeneral [1], a
+> free and open source clone of Panzer General. For many years LGeneral
+> was the only open source engine which could be used for playing the
+> original Panzer General campaign but it always lacked free content.
+> Almost two years ago I contacted Steve McGuba, the creator of K.u.K.
+> General, and asked him if he would allow me to create a free content
+> package by using his kukgen mod.
+>=20
+> Now I have finally found the time to complete the work. Steve told me
+> that you contributed graphics and units to kukgen, so I also wanted to
+> ask you for permission to use your work for this new content package for
+> LGeneral. Steve already gave me the permission to make use of his work
+> under a free Creative Commons license, namely CC-BY-SA-3.0, and hinted
+> that you might allow me to do the same with your contributions.
+>=20
+> I am maintaining the data at gitorious.org. [3]
+>=20
+> I intend to package this data for Debian GNU/Linux, a Linux
+> distribution, to share it with other people.
+>=20
+> I would be glad if you replied to this e-mail and gave me your
+> permission to use your contributions under the aforementioned
+> CC-BY-SA-3.0 license. I would then acknowledge you and your work in the
+> copyright file.
+>=20
+> Some screenshots:
+>=20
+> ftp://46.182.19.209/lgeneral/lgeneral-data_1.png
+> ftp://46.182.19.209/lgeneral/lgeneral-data_2.png
+> ftp://46.182.19.209/lgeneral/lgeneral-data_3.png
+> ftp://46.182.19.209/lgeneral/lgeneral-data_4.png
+>=20
+> Best regards,
+>=20
+> Markus
+>=20
+>=20
+> [1] https://sourceforge.net/projects/lgeneral/
+> [2] https://creativecommons.org/licenses/by-sa/3.0/
+> [3] https://gitorious.org/lgeneral-data
+>=20
+>=20
+>
+> [ signature.asc (0.9 Ko) ]
+------=_Part_9040_1518906256.1403186387652
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>Hello Markus,</p>
+<p>=C2=A0</p>
+<p>Very happy to read you, no problem to use contents you want on KUK or ot=
+her contributions for mine own...i belong to old internet pg association, a=
+t theese times the goal was to play and realise for other players FREE cont=
+ributions for the only glory to have a message by a player who appreciated =
+our work.</p>
+<p>=C2=A0</p>
+<p>So use in this way , if i install linux some day on a computer i will be=
+ glad to play on this platform my favorite game and his extensions.</p>
+<p>=C2=A0</p>
+<p>Excuse shortness of my mesage, i can speak many more but i am a little e=
+vrbooked in theese days!</p>
+<p>=C2=A0</p>
+<p>Many greetings</p>
+<p>=C2=A0</p>
+<p>Philippe<br /> <br /> <br /> <br /><br /></p>
+<blockquote style=3D"padding-left: 5px; margin-left: 5px; border-left: #ff0=
+000 2px solid;">&gt; Message du 17/06/14 14:10<br />&gt; De : "Markus Kosch=
+any" <br />&gt; A : philippe.champarou@wanadoo.fr<br />&gt; Copie =C3=A0 : =
+<br />&gt; Objet : Debian, LGeneral and K.u.K. General<br />&gt; <br />&gt;=
+ Hello Philippe,<br />&gt; <br />&gt; my name is Markus Koschany and I am c=
+urrently working on LGeneral [1], a<br />&gt; free and open source clone of=
+ Panzer General. For many years LGeneral<br />&gt; was the only open source=
+ engine which could be used for playing the<br />&gt; original Panzer Gener=
+al campaign but it always lacked free content.<br />&gt; Almost two years a=
+go I contacted Steve McGuba, the creator of K.u.K.<br />&gt; General, and a=
+sked him if he would allow me to create a free content<br />&gt; package by=
+ using his kukgen mod.<br />&gt; <br />&gt; Now I have finally found the ti=
+me to complete the work. Steve told me<br />&gt; that you contributed graph=
+ics and units to kukgen, so I also wanted to<br />&gt; ask you for permissi=
+on to use your work for this new content package for<br />&gt; LGeneral. St=
+eve already gave me the permission to make use of his work<br />&gt; under =
+a free Creative Commons license, namely CC-BY-SA-3.0, and hinted<br />&gt; =
+that you might allow me to do the same with your contributions.<br />&gt; <=
+br />&gt; I am maintaining the data at gitorious.org. [3]<br />&gt; <br />&=
+gt; I intend to package this data for Debian GNU/Linux, a Linux<br />&gt; d=
+istribution, to share it with other people.<br />&gt; <br />&gt; I would be=
+ glad if you replied to this e-mail and gave me your<br />&gt; permission t=
+o use your contributions under the aforementioned<br />&gt; CC-BY-SA-3.0 li=
+cense. I would then acknowledge you and your work in the<br />&gt; copyrigh=
+t file.<br />&gt; <br />&gt; Some screenshots:<br />&gt; <br />&gt; ftp://4=
+6.182.19.209/lgeneral/lgeneral-data_1.png<br />&gt; ftp://46.182.19.209/lge=
+neral/lgeneral-data_2.png<br />&gt; ftp://46.182.19.209/lgeneral/lgeneral-d=
+ata_3.png<br />&gt; ftp://46.182.19.209/lgeneral/lgeneral-data_4.png<br />&=
+gt; <br />&gt; Best regards,<br />&gt; <br />&gt; Markus<br />&gt; <br />&g=
+t; <br />&gt; [1] https://sourceforge.net/projects/lgeneral/<br />&gt; [2] =
+https://creativecommons.org/licenses/by-sa/3.0/<br />&gt; [3] https://gitor=
+ious.org/lgeneral-data<br />&gt; <br />&gt; <br />&gt;<br />&gt; [ signatur=
+e.asc (0.9 Ko) ]</blockquote>
+------=_Part_9040_1518906256.1403186387652--
+
