@@ -1,0 +1,5 @@
+author: Nikita Sadkov
+license: CC-BY-SA
+origin: https://github.com/saniv/free-game-art
+
+Various additions and edits to Yar's tileset.

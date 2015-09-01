@@ -1,6 +1,7 @@
 Author: Calciumtrice
 License: CC-BY 3.0
-Origin: http://opengameart.org/users/calciumtrice
+Origin: http://calciumtrice.tumblr.com/
+        http://opengameart.org/users/calciumtrice
 
 Dungeon tileset by Calciumtrice, usable under Creative Commons Attribution 3.0 license.
  
