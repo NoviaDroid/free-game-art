@@ -1,0 +1,3 @@
+Author: Rick Hoppmann
+Licnese: BSD
+Origin: https://github.com/tinyworlds/PlotNarrator

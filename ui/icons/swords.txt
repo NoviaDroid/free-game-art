@@ -1,0 +1,7 @@
+Author: David 'Meepedy'
+License: CC-BY, CC-BY-SA
+Origin: http://opengameart.org/content/sword-sprites
+
+This is a sprite package of 8 different unique swords
+
+Alternative link to help me out: http://adf.ly/1Nde2b

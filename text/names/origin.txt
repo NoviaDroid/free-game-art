@@ -1,0 +1,5 @@
+Author: Rick Hoppmann 'TinyWorlds'
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/200-town-names
+        http://opengameart.org/content/200-inn-names
+        http://opengameart.org/content/200-fantasy-names
