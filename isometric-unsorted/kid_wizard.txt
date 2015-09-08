@@ -1,6 +1,6 @@
 author: rnk 'RNK ArTS'
 License: GPL3
-Origin: hhttp://opengameart.org/content/harry-potter-1
+Origin: http://opengameart.org/content/harry-potter-1
 
 Copyright/Attribution Notice: 
 RNK ArTS

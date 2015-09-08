@@ -1,0 +1,16 @@
+Origin: http://opengameart.org/content/kid-jov10
+
+#Kid-Jo(v.1.0)LQ is handmaded Character by RNK ArTS (Rank Arts)
+
+Features or Animations:
+-Idle
+-Walking
+
+For Now it only has two basic animations(Idle & Walking),So I'm working on some other animations but you can use him as NPC-Character.
+
+Please let me know if you find any bugs.
+
+Note:If you use it,Please give credit(with Logo if you can)
+Thankyou.... '_'
+
+RNK ArTS
