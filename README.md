@@ -17,7 +17,7 @@ Broforce sprites, in particular, are pesent too:
 https://github.com/saniv/free-game-art/tree/master/sideview/broforce-sprites
 
 As well as a few unique spirtes, like the isometric Wikipe-tan
-https://github.com/saniv/free-game-art/blob/master/isometric/unsorted/wikipe-tan.png
+https://github.com/saniv/free-game-art/blob/master/isometric-unsorted/wikipe-tan.png
 
 And a few sprites drawn completely from scrach by myself:
 https://github.com/saniv/free-game-art/blob/master/isometric-unsorted/sprites-by-nikita-sadkov.png
