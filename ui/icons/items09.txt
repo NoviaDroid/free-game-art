@@ -1,3 +1,22 @@
 Author:  Henrique Lazarini '7Soul' 'Ails' (ails.deviantart.com 7soul1.deviantart.com/)
-License: CC-BY 3.0
+License: CC0 (Public Domain)
 Origin: http://opengameart.org/content/496-pixel-art-icons-for-medievalfantasy-rpg
+        http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
+        http://7soul1.deviantart.com/art/Extra-98-Free-RPG-Icons-389778011
+        http://7soul1.deviantart.com/art/RPG-Icons-Gold-Series-141651882
+
+------------------------------------------------------------
+
+Public Domain
+This work is free of known copyright restrictions..
+
+------------------------------------------------------------
+
+This set is a combination of the original 420 pixel art icons for RPG, plus two expansions that the author did at a later point. I renamed some of the icons, so that the whole set has the same naming convention.
+
+I had to remove some icons that were not compatible with the Public Domain license, since they were derivative works from copyrighted games. Everything has been repacked as .zip, for those of you who can't uncompress .rar or 7z.
+
+Original sets:
+http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453
+http://7soul1.deviantart.com/art/Extra-98-Free-RPG-Icons-389778011
+http://7soul1.deviantart.com/art/RPG-Icons-Gold-Series-141651882

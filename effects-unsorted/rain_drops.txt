@@ -1,0 +1,5 @@
+author: raidensan
+license: OGA-BY 3.0
+source: http://opengameart.org/content/rain
+
+Simple rain, for background and/or animation etc.
