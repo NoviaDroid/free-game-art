@@ -1,0 +1,12 @@
+author: Bonsaiheldin (http://bonsaiheld.org)
+license: CC-BY 3.0
+source: http://opengameart.org/content/shield-effect
+
+Here is a cool shield effect i made in GIMP. This is how it looks in my game. It shows itself when a ship is being attacked, signaling that the shield is protecting it (as long as its energy is sufficient). It's kind of an energy field.
+
+Maybe i will improve it further, but for now it's ok enough to be uploaded. Or better to say: I haven't changed it for 2 weeks, so fuck it. (:
+
+Before someone asks: No, i don't have the GIMP file anymore. I never saved it somehow.
+
+Copyright/Attribution Notice: 
+Bonsaiheldin | http://bonsaiheld.org

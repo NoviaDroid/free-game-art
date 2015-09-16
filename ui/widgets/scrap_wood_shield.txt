@@ -1,0 +1,12 @@
+author: Varkalandar
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/scrap-wood-shield
+
+A simple shield made from old wood planks. Designed to be a low level item in an RPG.
+
+Original CC0 artwork came from here:
+
+http://opengameart.org/content/wooden-shield
+
+Copyright/Attribution Notice: 
+CC0 doesn't require any attribution

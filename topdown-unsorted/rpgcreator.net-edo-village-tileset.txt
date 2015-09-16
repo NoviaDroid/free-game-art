@@ -1,5 +1,5 @@
 author: Samuel Ronce (http://webcreative5.net/)
-license: CC0 (Public Domain)
+license: MIT
 source: http://webcreative5.net/
         http://rpgcreator.net/
         http://opengameart.org/content/japanese-edo-village-tileset
