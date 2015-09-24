@@ -1,0 +1,3 @@
+Author: PR
+Licnese: CC0 (Public Domain)
+Origin: http://opengameart.org/content/game-ui-simple-outline-circles
