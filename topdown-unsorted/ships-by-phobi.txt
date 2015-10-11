@@ -1,0 +1,5 @@
+Author: phobi
+License: CC-BY
+Origin: http://opengameart.org/content/32x32-animated-space-ship
+        http://opengameart.org/content/96-x-96-space-ship
+        http://opengameart.org/content/64-x-64-animated-plane
