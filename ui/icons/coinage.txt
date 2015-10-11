@@ -1,0 +1,5 @@
+author: KPJ
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/gold-dwarven-coin
+
+This is a Dwarven coin icon which I commissioned from KPJ for Wyrmsun, and which he agreed to be released under the CC0 license.

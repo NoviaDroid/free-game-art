@@ -1,0 +1,5 @@
+author: JaggedStone
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/dungeon-tile-set
+
+This is a tile set for a dungeon crawler game I created for Android platforms. Floor and wall tiles included.

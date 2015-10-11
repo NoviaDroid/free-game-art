@@ -1,3 +1,4 @@
+author: Franco Giachetti 'LudicArts' (https://www.ludicarts.com/)
 license: CC-BY
 origin: http://opengameart.org/content/handpainted-rpg-icons
 

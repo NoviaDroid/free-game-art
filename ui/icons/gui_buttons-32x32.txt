@@ -1,0 +1,12 @@
+author: Jorge Avila (http://www.sumwars.org/)
+license: CC-BY
+origin: http://opengameart.org/content/georgui-icon-set
+
+Well... naming isn't my strong. (?)
+This is a iconset maded for the gui proyect i'm doing.
+Originally drawed in a 32x32px box.
+Interpoled to 16x16px, and they look good, i think.
+
+In this time i draw the form lines in the pixel art style, and paint it with brush.
+i added some semitransparent pixels for "antialiasing" too
+

@@ -1,0 +1,3 @@
+author: clayster2012 (http://www.patreon.com/clayster)
+license: OGA-BY
+origin: http://opengameart.org/content/player-characters-3

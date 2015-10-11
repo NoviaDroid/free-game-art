@@ -1,0 +1,11 @@
+Author: J. W. Bjerk "eleazzaar" (www.jwbjerk.com/art)
+License: CC-BY, CC-BY-SA, GPL2, GPL3
+Origin: http://opengameart.org/content/painterly-spell-icons-part-1
+        http://opengameart.org/content/painterly-spell-icons-part-2
+        http://opengameart.org/content/painterly-spell-icons-part-3
+        http://opengameart.org/content/painterly-spell-icons-part-4
+
+Each spell comes in three power levels.  Additionally most spells have several (up to nine) color variations.  The colors were chosen for their distinctness, and to support and wide range of possible classes of magic and or damage types.  For instance the red version of the "enchant weapon" spell could be used to add fire damage to weapons.  Game designers can figure out how to best apply these art assets to their system.
+
+Copyright/Attribution Notice: 
+J. W. Bjerk (eleazzaar) -- www.jwbjerk.com/art -- find this and other open art at: http://opengameart.org
