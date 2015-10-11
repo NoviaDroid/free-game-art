@@ -1,0 +1,10 @@
+Author: Jull
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/animated-spaceships
+
+A pack of 8 32x32 spaceship sprites, of which 7 are animated.
+
+Made for a manic shooter that I may release for free or something.
+
+Trailer here if you want to see them in action : https://www.youtube.com/watch?v=QTgowvEaIqg
+
